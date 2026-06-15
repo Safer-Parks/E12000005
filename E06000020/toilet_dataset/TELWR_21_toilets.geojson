@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TELWR_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Leegomery Community Centre Leegate Avenue", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 82, "park_offical_id": "TELWR_21" }, "geometry": { "type": "Point", "coordinates": [ -2.499673264, 52.711621847 ] } },
+{ "type": "Feature", "properties": { "name": "Hadley Learning Community Waterloo Road", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 82, "park_offical_id": "TELWR_21" }, "geometry": { "type": "Point", "coordinates": [ -2.48591365, 52.70153866 ] } }
+]
+}

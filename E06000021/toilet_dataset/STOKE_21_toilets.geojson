@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STOKE_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lidl Bentilee", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 102, "park_offical_id": "STOKE_21" }, "geometry": { "type": "Point", "coordinates": [ -2.123225927, 53.005626628 ] } },
+{ "type": "Feature", "properties": { "name": "Esso Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 102, "park_offical_id": "STOKE_21" }, "geometry": { "type": "Point", "coordinates": [ -2.119846344, 53.001137627 ] } }
+]
+}

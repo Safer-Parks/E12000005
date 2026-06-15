@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "COVEN_29_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "tesco", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "06:00-23:59", "Tue": "06:00-23:59", "Wed": "06:00-23:59", "Thu": "06:00-23:59", "Fri": "06:00-23:59", "Sat": "06:00-23:59", "Sun": "10:00-16:00", "index_right": 120, "park_offical_id": "COVEN_29" }, "geometry": { "type": "Point", "coordinates": [ -1.492048502, 52.443453326 ] } }
+]
+}

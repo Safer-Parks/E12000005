@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NEWCA_103_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Costa", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 5, "park_offical_id": "NEWCA_103" }, "geometry": { "type": "Point", "coordinates": [ -2.271018326, 53.001901242 ] } },
+{ "type": "Feature", "properties": { "name": "Keele Libery", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 5, "park_offical_id": "NEWCA_103" }, "geometry": { "type": "Point", "coordinates": [ -2.272182405, 53.001536448 ] } }
+]
+}

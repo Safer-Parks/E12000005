@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STOKE_10_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Toilets in market", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 2, "park_offical_id": "STOKE_10" }, "geometry": { "type": "Point", "coordinates": [ -2.175078, 53.026762 ] } },
+{ "type": "Feature", "properties": { "name": "Hanley Bus Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 2, "park_offical_id": "STOKE_10" }, "geometry": { "type": "Point", "coordinates": [ -2.174144983, 53.022578041 ] } },
+{ "type": "Feature", "properties": { "name": "2nd floor Intu Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 2, "park_offical_id": "STOKE_10" }, "geometry": { "type": "Point", "coordinates": [ -2.175394893, 53.027540418 ] } }
+]
+}

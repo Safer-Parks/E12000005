@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NEWCA_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Silverdale Cemeterey", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 62, "park_offical_id": "NEWCA_19" }, "geometry": { "type": "Point", "coordinates": [ -2.254451341, 53.014067931 ] } }
+]
+}

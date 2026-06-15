@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WARWI_136_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jephson Gardens Newbold Terrace", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "08:00-18:00", "index_right": 25, "park_offical_id": "WARWI_136" }, "geometry": { "type": "Point", "coordinates": [ -1.530555889, 52.288253807 ] } }
+]
+}

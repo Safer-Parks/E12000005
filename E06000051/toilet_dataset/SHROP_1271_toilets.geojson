@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_1271_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Shrewsbury Railway Station", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 54, "park_offical_id": "SHROP_1271" }, "geometry": { "type": "Point", "coordinates": [ -2.7487182, 52.7114008 ] } },
+{ "type": "Feature", "properties": { "name": "Sydney Avenue Shrewsbury", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 54, "park_offical_id": "SHROP_1271" }, "geometry": { "type": "Point", "coordinates": [ -2.74056673, 52.713330703 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TELWR_4_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Park Lane Centre Park Lane", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 112, "park_offical_id": "TELWR_4" }, "geometry": { "type": "Point", "coordinates": [ -2.467048521, 52.63807496 ] } },
+{ "type": "Feature", "properties": { "name": "Lidl Madeley", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 112, "park_offical_id": "TELWR_4" }, "geometry": { "type": "Point", "coordinates": [ -2.452550266, 52.638257206 ] } },
+{ "type": "Feature", "properties": { "name": "Abraham Darby Leisure Centre Ironbridge Road", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 112, "park_offical_id": "TELWR_4" }, "geometry": { "type": "Point", "coordinates": [ -2.468345165, 52.633574942 ] } }
+]
+}

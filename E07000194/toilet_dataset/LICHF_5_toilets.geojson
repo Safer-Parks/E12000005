@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_5_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lichfield City", "payment_info": "Free", "accessible": "Unknown", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 45, "park_offical_id": "LICHF_5" }, "geometry": { "type": "Point", "coordinates": [ -1.825427009, 52.68038568 ] } },
+{ "type": "Feature", "properties": { "name": "The Bus Station Lichfield", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 45, "park_offical_id": "LICHF_5" }, "geometry": { "type": "Point", "coordinates": [ -1.8250787, 52.681708 ] } }
+]
+}

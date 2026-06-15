@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_37_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rugby Train Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 51, "park_offical_id": "RUGBY_37" }, "geometry": { "type": "Point", "coordinates": [ -1.251175404, 52.37897709 ] } },
+{ "type": "Feature", "properties": { "name": "Elliotts Field Rugby", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-16:45", "Tue": "09:00-16:45", "Wed": "09:00-16:45", "Thu": "09:00-16:45", "Fri": "09:00-16:45", "Sat": "09:00-16:45", "Sun": "09:00-16:45", "index_right": 51, "park_offical_id": "RUGBY_37" }, "geometry": { "type": "Point", "coordinates": [ -1.259517074, 52.388413949 ] } }
+]
+}

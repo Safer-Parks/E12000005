@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NEWCA_22_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heathcote Street", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 89, "park_offical_id": "NEWCA_22" }, "geometry": { "type": "Point", "coordinates": [ -2.24009913, 53.087491462 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 89, "park_offical_id": "NEWCA_22" }, "geometry": { "type": "Point", "coordinates": [ -2.244939, 53.08922 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STOKE_36_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Queens Park Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 131, "park_offical_id": "STOKE_36" }, "geometry": { "type": "Point", "coordinates": [ -2.134764791, 52.974307073 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TELWR_208_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sutton Hill Community Centre Southgate", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "TELWR_208" }, "geometry": { "type": "Point", "coordinates": [ -2.441163402, 52.629723771 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "TELWR_208" }, "geometry": { "type": "Point", "coordinates": [ -2.449264526, 52.636404799 ] } }
+]
+}

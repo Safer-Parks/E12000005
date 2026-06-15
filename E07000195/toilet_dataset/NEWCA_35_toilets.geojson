@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NEWCA_35_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainsbury Supermarket", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 116, "park_offical_id": "NEWCA_35" }, "geometry": { "type": "Point", "coordinates": [ -2.232173681, 53.015209245 ] } },
+{ "type": "Feature", "properties": { "name": "Merrial Street", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 116, "park_offical_id": "NEWCA_35" }, "geometry": { "type": "Point", "coordinates": [ -2.22581488, 53.01275474 ] } },
+{ "type": "Feature", "properties": { "name": "Hassell Street opposite Bus Station", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 116, "park_offical_id": "NEWCA_35" }, "geometry": { "type": "Point", "coordinates": [ -2.224359, 53.0108773 ] } },
+{ "type": "Feature", "properties": { "name": "Merrial Street  this is now closed", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 116, "park_offical_id": "NEWCA_35" }, "geometry": { "type": "Point", "coordinates": [ -2.225913559, 53.011629631 ] } },
+{ "type": "Feature", "properties": { "name": "Mueseum and Art Gallery", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 116, "park_offical_id": "NEWCA_35" }, "geometry": { "type": "Point", "coordinates": [ -2.219065221, 53.016808173 ] } }
+]
+}

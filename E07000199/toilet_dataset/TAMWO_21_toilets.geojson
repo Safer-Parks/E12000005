@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TAMWO_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ankerside", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 14, "park_offical_id": "TAMWO_21" }, "geometry": { "type": "Point", "coordinates": [ -1.693143921, 52.632389996 ] } },
+{ "type": "Feature", "properties": { "name": "Tamworth Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "TAMWO_21" }, "geometry": { "type": "Point", "coordinates": [ -1.687377691, 52.637400973 ] } },
+{ "type": "Feature", "properties": { "name": "Tamworth Castle Grounds", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "09:00-15:00", "Wed": "Closed", "Thu": "Closed", "Fri": "09:00-15:00", "Sat": "09:00-15:00", "Sun": "09:00-15:00", "index_right": 14, "park_offical_id": "TAMWO_21" }, "geometry": { "type": "Point", "coordinates": [ -1.69607188, 52.631304823 ] } }
+]
+}

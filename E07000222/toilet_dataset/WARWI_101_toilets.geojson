@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WARWI_101_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Victoria Park Cricket Pavilion Archery Road", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:00-17:00", "Tue": "08:00-17:00", "Wed": "08:00-17:00", "Thu": "08:00-17:00", "Fri": "08:00-17:00", "Sat": "08:00-17:00", "Sun": "08:00-17:00", "index_right": 4, "park_offical_id": "WARWI_101" }, "geometry": { "type": "Point", "coordinates": [ -1.544454281, 52.286806841 ] } },
+{ "type": "Feature", "properties": { "name": "Queensway Court cafe toilet", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 4, "park_offical_id": "WARWI_101" }, "geometry": { "type": "Point", "coordinates": [ -1.543932336, 52.280093115 ] } },
+{ "type": "Feature", "properties": { "name": "Leamington Spa Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "WARWI_101" }, "geometry": { "type": "Point", "coordinates": [ -1.535953373, 52.284659254 ] } }
+]
+}

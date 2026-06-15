@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STOKE_146_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Weathervane", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 50, "park_offical_id": "STOKE_146" }, "geometry": { "type": "Point", "coordinates": [ -2.087372802, 52.971679283 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Meir Park", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "STOKE_146" }, "geometry": { "type": "Point", "coordinates": [ -2.089333534, 52.971884453 ] } },
+{ "type": "Feature", "properties": { "name": "McDonalds Meir Park", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "STOKE_146" }, "geometry": { "type": "Point", "coordinates": [ -2.087949514, 52.971036147 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STOKE_27_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Weston Road toilet", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 120, "park_offical_id": "STOKE_27" }, "geometry": { "type": "Point", "coordinates": [ -2.103307832, 52.978642527 ] } }
+]
+}

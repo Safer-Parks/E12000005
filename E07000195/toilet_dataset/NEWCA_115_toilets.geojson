@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NEWCA_115_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bradwell Park", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 14, "park_offical_id": "NEWCA_115" }, "geometry": { "type": "Point", "coordinates": [ -2.22367153, 53.037016178 ] } },
+{ "type": "Feature", "properties": { "name": "Bradwell Crematorium", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 14, "park_offical_id": "NEWCA_115" }, "geometry": { "type": "Point", "coordinates": [ -2.224049239, 53.043703373 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CANCH_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brereton  Ravenhill Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-16:00", "Tue": "08:00-16:00", "Wed": "08:00-16:00", "Thu": "08:00-16:00", "Fri": "08:00-16:00", "Sat": "08:00-16:00", "Sun": "08:00-16:00", "index_right": 38, "park_offical_id": "CANCH_42" }, "geometry": { "type": "Point", "coordinates": [ -1.923149228, 52.751113334 ] } }
+]
+}

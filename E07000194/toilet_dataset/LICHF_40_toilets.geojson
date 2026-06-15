@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_40_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 39, "park_offical_id": "LICHF_40" }, "geometry": { "type": "Point", "coordinates": [ -1.7314005, 52.7275625 ] } },
+{ "type": "Feature", "properties": { "name": "National Memorial Arboretum portaloo", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 39, "park_offical_id": "LICHF_40" }, "geometry": { "type": "Point", "coordinates": [ -1.726863384, 52.729471796 ] } },
+{ "type": "Feature", "properties": { "name": "National Memorial Arboretum portaloo", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 39, "park_offical_id": "LICHF_40" }, "geometry": { "type": "Point", "coordinates": [ -1.71897769, 52.73185294 ] } },
+{ "type": "Feature", "properties": { "name": "National Memorial Arboretum portaloo", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 39, "park_offical_id": "LICHF_40" }, "geometry": { "type": "Point", "coordinates": [ -1.725345254, 52.724973364 ] } }
+]
+}

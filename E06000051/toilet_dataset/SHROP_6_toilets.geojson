@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_6_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 189, "park_offical_id": "SHROP_6" }, "geometry": { "type": "Point", "coordinates": [ -2.725162676, 52.738076423 ] } }
+]
+}

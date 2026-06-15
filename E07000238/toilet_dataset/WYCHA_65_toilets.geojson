@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_65_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aldi supermarket ", "payment_info": "Free", "accessible": "Unknown", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 89, "park_offical_id": "WYCHA_65" }, "geometry": { "type": "Point", "coordinates": [ -1.943598144, 52.079869714 ] } }
+]
+}

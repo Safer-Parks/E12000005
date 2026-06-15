@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MALHI_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Worcester Road Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 42, "park_offical_id": "MALHI_21" }, "geometry": { "type": "Point", "coordinates": [ -2.3182998, 52.1255814 ] } },
+{ "type": "Feature", "properties": { "name": "Victoria Park", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "MALHI_21" }, "geometry": { "type": "Point", "coordinates": [ -2.312707901, 52.127022143 ] } }
+]
+}

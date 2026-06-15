@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WOLVE_120_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hollywood bowl", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WOLVE_120" }, "geometry": { "type": "Point", "coordinates": [ -2.092112303, 52.595635496 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WOLVE_120" }, "geometry": { "type": "Point", "coordinates": [ -2.085707188, 52.597831222 ] } },
+{ "type": "Feature", "properties": { "name": "High Street Wednesfield", "payment_info": "10p", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WOLVE_120" }, "geometry": { "type": "Point", "coordinates": [ -2.08107678, 52.60071896 ] } },
+{ "type": "Feature", "properties": { "name": "Bentley bridge ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WOLVE_120" }, "geometry": { "type": "Point", "coordinates": [ -2.087509632, 52.59763588 ] } }
+]
+}

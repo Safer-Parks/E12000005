@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "COVEN_185_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pool Meadow Bus Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 67, "park_offical_id": "COVEN_185" }, "geometry": { "type": "Point", "coordinates": [ -1.507122517, 52.40996225 ] } },
+{ "type": "Feature", "properties": { "name": "The Herbert Museum and Art Gallery", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "12:00-16:00", "index_right": 67, "park_offical_id": "COVEN_185" }, "geometry": { "type": "Point", "coordinates": [ -1.506409049, 52.407488296 ] } },
+{ "type": "Feature", "properties": { "name": "Fargo Village", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 67, "park_offical_id": "COVEN_185" }, "geometry": { "type": "Point", "coordinates": [ -1.493829489, 52.407396665 ] } },
+{ "type": "Feature", "properties": { "name": "Coventry Cathedral", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-16:00", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "12:30-15:00", "index_right": 67, "park_offical_id": "COVEN_185" }, "geometry": { "type": "Point", "coordinates": [ -1.506913304, 52.408980539 ] } }
+]
+}

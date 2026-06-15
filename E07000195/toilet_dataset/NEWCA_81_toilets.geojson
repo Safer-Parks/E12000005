@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NEWCA_81_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alexandra Road", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 148, "park_offical_id": "NEWCA_81" }, "geometry": { "type": "Point", "coordinates": [ -2.220112549, 53.029274186 ] } },
+{ "type": "Feature", "properties": { "name": "Mould town centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 148, "park_offical_id": "NEWCA_81" }, "geometry": { "type": "Point", "coordinates": [ -2.220626668, 53.030081851 ] } }
+]
+}

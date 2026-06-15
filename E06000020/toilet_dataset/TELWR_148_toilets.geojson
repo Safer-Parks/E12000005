@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TELWR_148_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wellington Cemetery Conveniences Linden Avenue", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 49, "park_offical_id": "TELWR_148" }, "geometry": { "type": "Point", "coordinates": [ -2.524455067, 52.695836749 ] } },
+{ "type": "Feature", "properties": { "name": "Wellington Civic  Leisure Centre Larkin Way", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 49, "park_offical_id": "TELWR_148" }, "geometry": { "type": "Point", "coordinates": [ -2.5188639, 52.699587 ] } },
+{ "type": "Feature", "properties": { "name": "Watling Community Centre 22 St Giles Close", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 49, "park_offical_id": "TELWR_148" }, "geometry": { "type": "Point", "coordinates": [ -2.503142573, 52.695389742 ] } }
+]
+}
