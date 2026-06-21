@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "South Staffordshire_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8475091609, "authority": "South Staffordshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.118851, 52.7236117 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11735149560, "authority": "South Staffordshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.1158461, 52.7289178 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11735149561, "authority": "South Staffordshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.1160901, 52.7286555 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11735149562, "authority": "South Staffordshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.1162898, 52.7283826 ] } }
+]
+}

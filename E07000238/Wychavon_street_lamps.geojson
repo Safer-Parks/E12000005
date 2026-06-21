@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Wychavon_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6818498241, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.1502931, 52.2550519 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12006432534, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.1629535, 52.2167616 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12006432596, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.1635709, 52.2172084 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12809979595, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9445307, 52.0902186 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810007392, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9447853, 52.0899907 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810011090, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9449618, 52.0897848 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810030340, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.944739, 52.0899403 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810033773, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9448889, 52.0897814 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810037055, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9452667, 52.0895102 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810043839, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9445652, 52.0902585 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810050342, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9451966, 52.0895106 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810050922, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9444805, 52.0892197 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12810057708, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.9450414, 52.0896511 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12883842935, "authority": "Wychavon", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.8550133, 52.042203 ] } }
+]
+}

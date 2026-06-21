@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Tamworth_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169888, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6829634, 52.6124293 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169889, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6831261, 52.6127882 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169890, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6834489, 52.6135193 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169891, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6836018, 52.6138774 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169892, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6836118, 52.6142325 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169893, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.684199, 52.6155837 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169894, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6840169, 52.6147811 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169895, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6843581, 52.6159469 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169896, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6847914, 52.6174038 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169897, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6847863, 52.6176733 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169898, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6848308, 52.6184245 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169899, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6850028, 52.6187909 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169900, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6848824, 52.6191398 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169901, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6850339, 52.6195175 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169902, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.685031, 52.6198776 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169903, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6849129, 52.6202148 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072169904, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6850466, 52.6209236 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072175005, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6851102, 52.6205424 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11072175006, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6851381, 52.6215995 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11779589929, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6462646, 52.6400286 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11779589930, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6466968, 52.6399367 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11779589931, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6471232, 52.6398539 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11779589932, "authority": "Tamworth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6475532, 52.6397799 ] } }
+]
+}

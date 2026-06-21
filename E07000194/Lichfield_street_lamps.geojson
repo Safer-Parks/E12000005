@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Lichfield_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8718178276, "authority": "Lichfield", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.8190514, 52.6719515 ] } }
+]
+}
