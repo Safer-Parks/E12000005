@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_6366_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vicarage Road", "payment_info": "10p coin", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 821, "park_offical_id": "BIRMI_6366" }, "geometry": { "type": "Point", "coordinates": [ -1.89340353, 52.432349153 ] } },
+{ "type": "Feature", "properties": { "name": "Kings Heath Library", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 821, "park_offical_id": "BIRMI_6366" }, "geometry": { "type": "Point", "coordinates": [ -1.893081665, 52.437751765 ] } },
+{ "type": "Feature", "properties": { "name": "Poundland", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-19:00", "Tue": "08:00-19:00", "Wed": "08:00-19:00", "Thu": "08:00-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "10:00-16:00", "index_right": 821, "park_offical_id": "BIRMI_6366" }, "geometry": { "type": "Point", "coordinates": [ -1.8940998, 52.4355332 ] } },
+{ "type": "Feature", "properties": { "name": "Lidl", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-22:00", "Tue": "08:00-22:00", "Wed": "08:00-22:00", "Thu": "08:00-22:00", "Fri": "08:00-22:00", "Sat": "08:00-22:00", "Sun": "10:00-16:00", "index_right": 821, "park_offical_id": "BIRMI_6366" }, "geometry": { "type": "Point", "coordinates": [ -1.895420551, 52.433879801 ] } },
+{ "type": "Feature", "properties": { "name": "Kings Heath Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 821, "park_offical_id": "BIRMI_6366" }, "geometry": { "type": "Point", "coordinates": [ -1.903016567, 52.432035167 ] } }
+]
+}

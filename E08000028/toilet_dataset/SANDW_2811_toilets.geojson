@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SANDW_2811_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 1056, "park_offical_id": "SANDW_2811" }, "geometry": { "type": "Point", "coordinates": [ -1.9497753, 52.5388449 ] } },
+{ "type": "Feature", "properties": { "name": "Tanhouse Centre Hamstead Road", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 1056, "park_offical_id": "SANDW_2811" }, "geometry": { "type": "Point", "coordinates": [ -1.939659861, 52.535058574 ] } }
+]
+}

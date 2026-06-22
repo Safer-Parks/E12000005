@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_242_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "KFC Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 499, "park_offical_id": "BIRMI_242" }, "geometry": { "type": "Point", "coordinates": [ -1.760768294, 52.500656523 ] } },
+{ "type": "Feature", "properties": { "name": "Morrisons supermarket", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 499, "park_offical_id": "BIRMI_242" }, "geometry": { "type": "Point", "coordinates": [ -1.763297576, 52.500433362 ] } }
+]
+}

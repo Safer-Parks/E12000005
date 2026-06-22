@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_75_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 901, "park_offical_id": "BIRMI_75" }, "geometry": { "type": "Point", "coordinates": [ -1.9144439, 52.4776382 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Springhill", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 901, "park_offical_id": "BIRMI_75" }, "geometry": { "type": "Point", "coordinates": [ -1.920247078, 52.485592959 ] } },
+{ "type": "Feature", "properties": { "name": "Broadway Plaza", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 901, "park_offical_id": "BIRMI_75" }, "geometry": { "type": "Point", "coordinates": [ -1.921328008, 52.473929533 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 901, "park_offical_id": "BIRMI_75" }, "geometry": { "type": "Point", "coordinates": [ -1.9128746, 52.4807173 ] } },
+{ "type": "Feature", "properties": { "name": "Ikon Gallery", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "11:00-17:00", "Wed": "11:00-17:00", "Thu": "11:00-17:00", "Fri": "11:00-17:00", "Sat": "11:00-17:00", "Sun": "11:00-17:00", "index_right": 901, "park_offical_id": "BIRMI_75" }, "geometry": { "type": "Point", "coordinates": [ -1.912331879, 52.477810814 ] } }
+]
+}

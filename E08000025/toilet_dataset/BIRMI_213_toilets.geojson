@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_213_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 421, "park_offical_id": "BIRMI_213" }, "geometry": { "type": "Point", "coordinates": [ -1.818294525, 52.49442093 ] } },
+{ "type": "Feature", "properties": { "name": "McDonalds", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 421, "park_offical_id": "BIRMI_213" }, "geometry": { "type": "Point", "coordinates": [ -1.810866594, 52.487314487 ] } },
+{ "type": "Feature", "properties": { "name": "Bucklands End Lane Medical Centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 421, "park_offical_id": "BIRMI_213" }, "geometry": { "type": "Point", "coordinates": [ -1.802212, 52.498771658 ] } },
+{ "type": "Feature", "properties": { "name": "MATALAN", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 421, "park_offical_id": "BIRMI_213" }, "geometry": { "type": "Point", "coordinates": [ -1.808205843, 52.487229555 ] } },
+{ "type": "Feature", "properties": { "name": "Shell", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "10:00-21:00", "Tue": "10:00-21:00", "Wed": "10:00-21:00", "Thu": "10:00-21:00", "Fri": "10:00-21:00", "Sat": "10:00-21:00", "Sun": "10:00-21:00", "index_right": 421, "park_offical_id": "BIRMI_213" }, "geometry": { "type": "Point", "coordinates": [ -1.813065225, 52.488357787 ] } }
+]
+}

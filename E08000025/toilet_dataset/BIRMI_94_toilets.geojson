@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_94_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Broadway Plaza", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 1009, "park_offical_id": "BIRMI_94" }, "geometry": { "type": "Point", "coordinates": [ -1.921328008, 52.473929533 ] } }
+]
+}

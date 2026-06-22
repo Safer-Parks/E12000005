@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_272_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stirchley Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 548, "park_offical_id": "BIRMI_272" }, "geometry": { "type": "Point", "coordinates": [ -1.923265457, 52.429014216 ] } }
+]
+}

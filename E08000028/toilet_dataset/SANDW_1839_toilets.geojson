@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SANDW_1839_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 415, "park_offical_id": "SANDW_1839" }, "geometry": { "type": "Point", "coordinates": [ -1.9942094, 52.5175799 ] } },
+{ "type": "Feature", "properties": { "name": "West Bromwich Town Hall", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 415, "park_offical_id": "SANDW_1839" }, "geometry": { "type": "Point", "coordinates": [ -1.997913122, 52.520536249 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 415, "park_offical_id": "SANDW_1839" }, "geometry": { "type": "Point", "coordinates": [ -1.9926966, 52.5190056 ] } },
+{ "type": "Feature", "properties": { "name": "Kings Square Shopping Centre Sandwell Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "Closed", "index_right": 415, "park_offical_id": "SANDW_1839" }, "geometry": { "type": "Point", "coordinates": [ -1.992853625, 52.517264738 ] } },
+{ "type": "Feature", "properties": { "name": "Highfields High Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:00-17:00", "Tue": "08:00-17:00", "Wed": "08:00-17:00", "Thu": "08:00-17:00", "Fri": "08:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 415, "park_offical_id": "SANDW_1839" }, "geometry": { "type": "Point", "coordinates": [ -1.9979815, 52.5219902 ] } }
+]
+}

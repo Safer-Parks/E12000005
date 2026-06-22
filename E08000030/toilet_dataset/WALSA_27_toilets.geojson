@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WALSA_27_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Walsall Coach Station", "payment_info": "20p", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 29, "park_offical_id": "WALSA_27" }, "geometry": { "type": "Point", "coordinates": [ -1.9825723, 52.585202 ] } },
+{ "type": "Feature", "properties": { "name": "Walsall Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "06:00-19:00", "Tue": "06:00-19:00", "Wed": "06:00-19:00", "Thu": "06:00-19:00", "Fri": "06:00-20:00", "Sat": "07:00-20:00", "Sun": "09:20-16:45", "index_right": 29, "park_offical_id": "WALSA_27" }, "geometry": { "type": "Point", "coordinates": [ -1.984753459, 52.58441036 ] } }
+]
+}

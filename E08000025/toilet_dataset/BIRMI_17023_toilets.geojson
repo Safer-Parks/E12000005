@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_17023_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Birmingham Moor Street Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 316, "park_offical_id": "BIRMI_17023" }, "geometry": { "type": "Point", "coordinates": [ -1.891776, 52.4786748 ] } },
+{ "type": "Feature", "properties": { "name": "St Martin in the Bull Ring", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 316, "park_offical_id": "BIRMI_17023" }, "geometry": { "type": "Point", "coordinates": [ -1.893151402, 52.476853612 ] } },
+{ "type": "Feature", "properties": { "name": "Bullring Toilets  Check Levels", "payment_info": "No Charge", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 316, "park_offical_id": "BIRMI_17023" }, "geometry": { "type": "Point", "coordinates": [ -1.8931095, 52.4782121 ] } },
+{ "type": "Feature", "properties": { "name": "Urinals", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "False", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 316, "park_offical_id": "BIRMI_17023" }, "geometry": { "type": "Point", "coordinates": [ -1.8804222, 52.4775291 ] } },
+{ "type": "Feature", "properties": { "name": "Coach station", "payment_info": "30p", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 316, "park_offical_id": "BIRMI_17023" }, "geometry": { "type": "Point", "coordinates": [ -1.8882313, 52.4751343 ] } }
+]
+}

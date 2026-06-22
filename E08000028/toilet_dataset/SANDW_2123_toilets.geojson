@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SANDW_2123_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "104105 High Street", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 611, "park_offical_id": "SANDW_2123" }, "geometry": { "type": "Point", "coordinates": [ -1.990574598, 52.516566894 ] } }
+]
+}

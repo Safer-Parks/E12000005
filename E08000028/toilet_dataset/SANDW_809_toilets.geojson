@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SANDW_809_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "King George Pavilion", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 1144, "park_offical_id": "SANDW_809" }, "geometry": { "type": "Point", "coordinates": [ -1.977989674, 52.520818595 ] } },
+{ "type": "Feature", "properties": { "name": "Sandwell Park Farm", "payment_info": "Admission fees to site", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 1144, "park_offical_id": "SANDW_809" }, "geometry": { "type": "Point", "coordinates": [ -1.972480416, 52.521275567 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 1144, "park_offical_id": "SANDW_809" }, "geometry": { "type": "Point", "coordinates": [ -1.97790896, 52.52076712 ] } },
+{ "type": "Feature", "properties": { "name": "Dartmouth Park Fort", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 1144, "park_offical_id": "SANDW_809" }, "geometry": { "type": "Point", "coordinates": [ -1.983252168, 52.520994857 ] } }
+]
+}

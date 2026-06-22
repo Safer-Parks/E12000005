@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_209_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heartlands Hospital Main Entrance", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 416, "park_offical_id": "BIRMI_209" }, "geometry": { "type": "Point", "coordinates": [ -1.829813719, 52.478593452 ] } },
+{ "type": "Feature", "properties": { "name": "Heartlands Hospital Outpatients", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 416, "park_offical_id": "BIRMI_209" }, "geometry": { "type": "Point", "coordinates": [ -1.827024222, 52.478879879 ] } },
+{ "type": "Feature", "properties": { "name": "Richmond Medical Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 416, "park_offical_id": "BIRMI_209" }, "geometry": { "type": "Point", "coordinates": [ -1.815721393, 52.477550101 ] } }
+]
+}
