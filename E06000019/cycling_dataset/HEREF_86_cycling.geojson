@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_86_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9792821,51.9385155],[-2.9787945,51.9393733],[-2.9778718,51.939823],[-2.9776143,51.9402992],[-2.9771422,51.9405241]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9701041,51.9380107],[-2.9706406,51.9385795],[-2.9723143,51.938778],[-2.9732799,51.9387118],[-2.9737519,51.9369391],[-2.9742694,51.9370125]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9735592,51.9360403],[-2.9730954,51.9354357],[-2.9729831,51.9352509],[-2.9729938,51.9350865],[-2.9728977,51.9348299],[-2.972631,51.9345602],[-2.972663,51.9344681],[-2.9734099,51.9342905],[-2.973858,51.9342116],[-2.9740394,51.9341063],[-2.9741781,51.9340208],[-2.9742741,51.9339089],[-2.9743061,51.9338103],[-2.9742851,51.9334571]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9698227,51.937687],[-2.9701041,51.9380107]]]}}
+]
+}

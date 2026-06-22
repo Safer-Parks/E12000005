@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_213_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9561198,52.1695492],[-2.9559399,52.1695605],[-2.95565,52.1694632],[-2.952751,52.1694938],[-2.9525653,52.1694854],[-2.951374,52.1697855],[-2.9511045,52.1698318],[-2.9509547,52.1698271],[-2.950817,52.1698055],[-2.9507489,52.1697744],[-2.950613,52.1697299],[-2.9505124,52.1697173],[-2.9503306,52.1697402]]]}}
+]
+}

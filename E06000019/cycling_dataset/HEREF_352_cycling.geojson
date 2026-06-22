@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_352_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6818335,52.2279539],[-2.6817262,52.2278356],[-2.6816377,52.2277025]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6750801,52.2231258],[-2.6747552,52.2228335],[-2.6741976,52.2223843],[-2.6737188,52.2220465],[-2.6727976,52.2214302],[-2.6724401,52.2212037],[-2.6721803,52.2212267],[-2.6719795,52.2212445],[-2.6713916,52.2214562],[-2.6706341,52.2215638],[-2.6697886,52.2215966]]]}}
+]
+}

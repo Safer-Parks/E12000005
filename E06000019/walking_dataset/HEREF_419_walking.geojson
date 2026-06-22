@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_419_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7081383,51.9663989],[-2.7083368,51.966346],[-2.708385,51.966308],[-2.7087536,51.9653557],[-2.7096927,51.9642042]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7146853,51.9594967],[-2.7139673,51.9598839],[-2.7138171,51.9602013],[-2.7137763,51.9607599],[-2.7126583,51.9620392],[-2.7120353,51.962513],[-2.7110887,51.9630242],[-2.7107084,51.9630409],[-2.7104257,51.9633713]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7050036,51.9589918],[-2.7048695,51.9587868],[-2.7048453,51.9586265],[-2.7049204,51.9585736],[-2.7050706,51.9585471],[-2.705473,51.9585686],[-2.7059209,51.9586414],[-2.7059868,51.9586691]]]}}
+]
+}

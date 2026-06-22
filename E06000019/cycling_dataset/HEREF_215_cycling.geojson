@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_215_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9065932,52.2251452],[-2.9066679,52.2251035],[-2.907154,52.2247681],[-2.9073404,52.2247314],[-2.9075197,52.2247145],[-2.9081065,52.224832],[-2.9084478,52.2247967],[-2.9090154,52.2244702],[-2.9093414,52.2244396],[-2.9103462,52.2248695],[-2.9107719,52.224893],[-2.9121026,52.2254569],[-2.9135063,52.2261193],[-2.9138668,52.226218],[-2.914768,52.2266949]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9243871,52.2310872],[-2.9240369,52.2313928],[-2.92399,52.2314357],[-2.9237252,52.2316783],[-2.9237095,52.2316973],[-2.9237077,52.2317164],[-2.9237104,52.2317361]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.924046,52.2351569],[-2.9239947,52.2355275],[-2.9239129,52.2355968]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"5 Noke Lane Driveway","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.92399,52.2314357],[-2.9241872,52.2315289],[-2.9242355,52.2315621],[-2.9242254,52.2316209],[-2.9240813,52.2317908]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.91928,52.2377132],[-2.9187759,52.2375887],[-2.9184669,52.2375663],[-2.9179465,52.2375613],[-2.9177839,52.2375737],[-2.9176253,52.2376036],[-2.9174993,52.2376758],[-2.9170521,52.2380493],[-2.9169017,52.2380692],[-2.9167391,52.2380443],[-2.9130264,52.2360912]]]}}
+]
+}

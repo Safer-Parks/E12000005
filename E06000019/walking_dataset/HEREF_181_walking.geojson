@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_181_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9969609,52.2230068],[-2.9969636,52.2228556],[-2.9968563,52.2225599],[-2.996749,52.2224547],[-2.9963064,52.2220045],[-2.9961294,52.221873],[-2.995711,52.2216298]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Eywood Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0061627,52.2302783],[-3.0061389,52.2303312],[-3.00604,52.2304205],[-3.0059095,52.2305822]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Eywood Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0102106,52.2285946],[-3.009912,52.2285776],[-3.0098428,52.2285416],[-3.0093921,52.2285933],[-3.0090668,52.2286278],[-3.0088747,52.2286608],[-3.0087825,52.2286906],[-3.0083779,52.2287596],[-3.0079476,52.2288929],[-3.0075378,52.229089],[-3.0072331,52.2293118],[-3.0071204,52.2294639],[-3.0071217,52.2295625],[-3.0066835,52.2298834],[-3.0062128,52.2302225],[-3.0061627,52.2302783]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0068877,52.2320182],[-3.0064773,52.2318933],[-3.0062346,52.2317685],[-3.0060267,52.2316174],[-3.005973,52.2315352],[-3.0059596,52.2314547],[-3.0059794,52.2313245]]]}}
+]
+}

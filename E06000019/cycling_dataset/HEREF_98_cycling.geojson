@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_98_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Monnington Walk","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9239913,52.0875371],[-2.9275575,52.0887918],[-2.934676,52.0912961],[-2.9347387,52.091453],[-2.9417125,52.0938495]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9314671,52.0817581],[-2.9311261,52.0797266],[-2.9313568,52.0794101],[-2.9320595,52.078731],[-2.9296187,52.0779562],[-2.9304663,52.0770495],[-2.9299942,52.0769341],[-2.9304609,52.075345],[-2.929667,52.0752329],[-2.9291305,52.0752461],[-2.9285619,52.0753351],[-2.9283366,52.0752559],[-2.923337,52.0751438],[-2.9231304,52.0751014],[-2.9229909,52.0750883]]]}}
+]
+}
