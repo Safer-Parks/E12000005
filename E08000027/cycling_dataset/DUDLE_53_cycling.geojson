@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_53_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1531667,52.4325297],[-2.152841,52.4324939],[-2.1524207,52.4324622],[-2.1522673,52.4324655],[-2.1521139,52.4324844],[-2.1510668,52.4326419],[-2.1497773,52.4326718],[-2.1495972,52.4328959],[-2.149222,52.4334952],[-2.1489604,52.4340236],[-2.1488399,52.4342572],[-2.1487614,52.4343872],[-2.1486022,52.4345281]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1460746,52.4342304],[-2.1488399,52.4342572]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1405833,52.4343665],[-2.1399294,52.4343542],[-2.1389143,52.4342147],[-2.1367111,52.4339362],[-2.1355487,52.4337759]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1405833,52.4343665],[-2.1414366,52.4343505]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1414366,52.4343505],[-2.1417533,52.4343714]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1417533,52.4343714],[-2.1420051,52.4343902]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1370358,52.4280505],[-2.1372928,52.4280428],[-2.1378248,52.4280924],[-2.1381122,52.4280801],[-2.1381942,52.4280766],[-2.1388702,52.4280901],[-2.1394132,52.4280541],[-2.1402592,52.4280451],[-2.1410497,52.4280901],[-2.1416482,52.4280834],[-2.1422171,52.4280969],[-2.1425495,52.4280835]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1425495,52.4280835],[-2.1428585,52.4281096]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1428585,52.4281096],[-2.1430066,52.4281201],[-2.1438746,52.4281974],[-2.1443475,52.4281366],[-2.1448051,52.428083]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1355487,52.4337759],[-2.1351191,52.4350878],[-2.135097,52.4351336],[-2.1350705,52.4351874],[-2.1350263,52.435244],[-2.1349777,52.4352844],[-2.1349468,52.4353167],[-2.1349159,52.4353733],[-2.1347392,52.4359012],[-2.1347259,52.4359524],[-2.1347082,52.4360143],[-2.1347038,52.4360924],[-2.1344885,52.4377418]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1349468,52.4353167],[-2.1345113,52.4354019],[-2.1343825,52.4354265],[-2.1342725,52.4354543],[-2.1342189,52.4354755],[-2.1341572,52.4355115],[-2.1338925,52.4357451]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1448051,52.428083],[-2.1454961,52.42798],[-2.1456798,52.4280102]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1381122,52.4280801],[-2.1381171,52.42801],[-2.1381136,52.4279637],[-2.1380895,52.427911],[-2.1380423,52.4278493],[-2.1380296,52.4278255],[-2.1380331,52.4277925],[-2.1380676,52.4276767],[-2.1381136,52.4275743]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1355487,52.4337759],[-2.1331326,52.4334426],[-2.1320186,52.4333116]]]}}
+]
+}

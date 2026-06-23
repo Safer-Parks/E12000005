@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_47_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7699175,52.7166088],[-1.7697921,52.7165075],[-1.7696888,52.7163931],[-1.7686486,52.7158892]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7679711,52.7154581],[-1.7678569,52.7153154]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Heath Gap","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7686486,52.7158892],[-1.7679711,52.7154581]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7707617,52.7159392],[-1.7704943,52.7159226],[-1.7703962,52.7159114]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7703962,52.7159114],[-1.7701506,52.7158112]]]}}
+]
+}

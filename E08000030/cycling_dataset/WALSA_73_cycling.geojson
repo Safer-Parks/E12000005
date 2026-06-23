@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WALSA_73_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"McClean Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9666925,52.6137293],[-1.9664112,52.6149897],[-1.9663862,52.6150972],[-1.9662319,52.6158578],[-1.966022,52.6167343],[-1.9658885,52.6173246],[-1.9657542,52.6179185],[-1.9654013,52.6196235],[-1.9651384,52.6208969],[-1.9650371,52.6214588],[-1.9648829,52.622164],[-1.9646039,52.6234273],[-1.9645986,52.6234737]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.966507,52.6169532],[-1.9665432,52.6168961],[-1.9665581,52.6167904],[-1.9663458,52.6166516],[-1.9662805,52.6165147],[-1.9662478,52.6163461],[-1.9662903,52.6161398],[-1.9662787,52.6159949],[-1.9662319,52.6158578]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.964131,52.6119407],[-1.9641382,52.6119555],[-1.9641355,52.6119741],[-1.964112,52.6119906],[-1.9635854,52.6122069],[-1.9633772,52.6122925]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"McClean Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9645986,52.6234737],[-1.9645587,52.623728]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"McClean Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9645587,52.623728],[-1.9642417,52.6251431],[-1.9641834,52.6253223]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9647438,52.6139069],[-1.9655615,52.6137555],[-1.965677,52.6137341]]]}}
+]
+}

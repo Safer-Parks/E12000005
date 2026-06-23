@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUST_49_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2286588,52.6449286],[-2.2280925,52.6454098],[-2.2277516,52.6456903],[-2.2271725,52.6458291],[-2.2264207,52.6459793],[-2.2258427,52.6462645]]]}}
+]
+}

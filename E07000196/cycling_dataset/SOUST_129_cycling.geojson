@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOUST_129_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2254314,52.6343987],[-2.2251169,52.635246],[-2.2250581,52.6359852],[-2.2250483,52.6362858]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2303334,52.6317962],[-2.2302579,52.6318374],[-2.2301369,52.6318879],[-2.2296836,52.631998],[-2.2295779,52.6320507],[-2.2295174,52.6321034],[-2.2289357,52.6328302],[-2.2284749,52.6333919],[-2.2280064,52.6339444],[-2.2277495,52.6342194],[-2.227623,52.6343455],[-2.2274008,52.6343827],[-2.2269179,52.634327],[-2.226673,52.6343364],[-2.2265332,52.6343502],[-2.2264275,52.6344304],[-2.2264275,52.6345496],[-2.2265181,52.6346367],[-2.2267276,52.6347509]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2201424,52.6407665],[-2.2201362,52.6409708],[-2.2195033,52.6408951],[-2.2194294,52.6413146],[-2.2198004,52.6416398],[-2.2202921,52.6420093],[-2.2204358,52.6421539],[-2.2204554,52.6422815]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2286588,52.6449286],[-2.2280925,52.6454098],[-2.2277516,52.6456903],[-2.2271725,52.6458291],[-2.2264207,52.6459793],[-2.2258427,52.6462645]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2250483,52.6362858],[-2.2249483,52.6366055],[-2.2248304,52.6366622],[-2.2246013,52.6366824],[-2.2244632,52.6367498],[-2.2241647,52.6371485]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2226216,52.6405858],[-2.2226088,52.640583],[-2.2225774,52.6406133],[-2.2225425,52.640625],[-2.2224916,52.6406471]]]}}
+]
+}

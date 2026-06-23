@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STRAT_205_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3795124,52.0976668],[-1.3796727,52.0976062],[-1.379959,52.0974979],[-1.382255,52.0967663],[-1.3824856,52.0967713],[-1.3827243,52.096829]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3804385,52.1055045],[-1.3805069,52.1055788],[-1.3821297,52.1063325],[-1.3821715,52.1064707]]]}}
+]
+}

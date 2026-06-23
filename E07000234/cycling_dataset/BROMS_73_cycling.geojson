@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "BROMS_73_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9700184,52.3388165],[-1.9700928,52.3386574],[-1.9689288,52.3385311],[-1.9682489,52.3369791],[-1.9671991,52.335304],[-1.9656761,52.3336355],[-1.9643217,52.3325918],[-1.9617381,52.3306474],[-1.9619937,52.3304047],[-1.961972,52.330182],[-1.9615042,52.3298596],[-1.9611196,52.3296923],[-1.9588948,52.3288372]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9640693,52.3386253],[-1.9640463,52.3388164],[-1.9641335,52.3390072],[-1.9652588,52.3400735],[-1.9652634,52.3401605],[-1.9638933,52.340712]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9674961,52.3442612],[-1.9677583,52.3433686],[-1.9679867,52.3429758],[-1.9670011,52.3425461],[-1.9661296,52.3423809],[-1.9654324,52.3421312],[-1.9651276,52.3419528]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9570435,52.3385453],[-1.9570659,52.3385975],[-1.957196,52.3386509],[-1.9572468,52.3387167],[-1.9572265,52.3390173],[-1.9571695,52.3390881],[-1.9568877,52.3392443],[-1.9567528,52.3393936]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9568401,52.339211],[-1.956816,52.3391931],[-1.9567919,52.3391751]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9567919,52.3391751],[-1.9567702,52.3391604]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9568877,52.3392443],[-1.9568401,52.339211]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9592727,52.3378898],[-1.959408,52.3377998],[-1.9599318,52.3376225],[-1.9605229,52.3373111],[-1.9612024,52.3368851],[-1.961843,52.3364245],[-1.9621564,52.3361414],[-1.9622419,52.3360642]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9616763,52.3394264],[-1.9616278,52.3394692],[-1.961565,52.3395041]]]}}
+]
+}

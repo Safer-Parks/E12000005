@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_69_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Green Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9051165,52.688638],[-1.9042825,52.6887617],[-1.9034819,52.6887779],[-1.9022486,52.68883],[-1.9011979,52.6890567],[-1.9003481,52.6891452],[-1.8992323,52.6891979],[-1.8981552,52.6894513],[-1.8970436,52.6898222],[-1.8962716,52.690221],[-1.8943947,52.6907485]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9156695,52.6928663],[-1.9156569,52.6929538],[-1.9155896,52.6934232],[-1.9156265,52.6939392],[-1.9156184,52.6940464],[-1.9156177,52.6940861]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.914923,52.6825362],[-1.9149231,52.6825458]]]}}
+]
+}

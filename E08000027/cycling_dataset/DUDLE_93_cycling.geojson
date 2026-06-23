@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_93_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1519735,52.4811789],[-2.1518714,52.4811098],[-2.151792,52.4810104],[-2.1517214,52.4808868],[-2.1516244,52.4808089],[-2.1514346,52.4807094],[-2.1512802,52.4806611],[-2.1511687,52.4806416],[-2.1510167,52.4806405]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1574074,52.4852663],[-2.1573564,52.4852665],[-2.1573024,52.4852717]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Marshall Crescent","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1606211,52.4862109],[-2.1605602,52.4861446],[-2.1603788,52.4859684]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1518337,52.4815791],[-2.1517475,52.4814951],[-2.1518079,52.4813429],[-2.1519735,52.4811789],[-2.1521855,52.4810666]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_8_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1521184,52.8291507],[-2.1523714,52.8287443],[-2.1529384,52.8282549],[-2.1538744,52.8274066]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1555871,52.8341781],[-2.1584985,52.8329934],[-2.1606903,52.832303],[-2.1611521,52.8321375],[-2.1614418,52.8321706]]]}}
+]
+}

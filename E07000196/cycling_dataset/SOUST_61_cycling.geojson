@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "SOUST_61_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"South Staffordshire Railway Walk (The Track)","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1990693,52.5677532],[-2.1976641,52.5686406],[-2.1972408,52.568908],[-2.196535,52.5693361],[-2.196396,52.5694139],[-2.1928746,52.5713836],[-2.1892857,52.5733936],[-2.1866758,52.5747721],[-2.1848648,52.5758943],[-2.1834491,52.5767888],[-2.1833577,52.5768593],[-2.1826902,52.5773746],[-2.1825141,52.5775106],[-2.1822267,52.5777937],[-2.1812945,52.5787277],[-2.1805752,52.5794066],[-2.1804866,52.5794852],[-2.180116,52.5798559],[-2.1800955,52.5798773],[-2.1800359,52.5799312],[-2.1791376,52.5807435],[-2.1791076,52.5807748],[-2.1782901,52.5816183],[-2.1767686,52.5830311],[-2.1767571,52.5830425],[-2.1762966,52.5835004],[-2.1761497,52.5836541],[-2.1755347,52.5842546],[-2.1752349,52.5845329],[-2.1736866,52.5860052],[-2.1734821,52.586217]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1744075,52.5678811],[-2.174499,52.5677085],[-2.1745526,52.5675168],[-2.1746894,52.5674902]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1720349,52.5703],[-2.1720522,52.5704314]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Sundridge Walk","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1756777,52.5683768],[-2.1757791,52.5683861]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1761064,52.5665848],[-2.1761996,52.5666407],[-2.1762714,52.5669591],[-2.1763587,52.5670876],[-2.1762459,52.567211]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1715248,52.5709691],[-2.1714393,52.5710518],[-2.1714059,52.5710848]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.174202,52.5709678],[-2.1743686,52.5709802]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1846467,52.5638148],[-2.1846981,52.5635695],[-2.1849831,52.5632495],[-2.1853749,52.5628934],[-2.1857277,52.5626002],[-2.1862382,52.5619995]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1763587,52.5670876],[-2.1764743,52.5671547]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1829413,52.5769374],[-2.1831826,52.5767518],[-2.1837419,52.5763045]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1826902,52.5773746],[-2.1829339,52.577048]]]}}
+]
+}

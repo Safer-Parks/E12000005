@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CANCH_74_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0149126,52.6969278],[-2.014762,52.6969322]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0216095,52.7027665],[-2.0214445,52.702287],[-2.0201287,52.7021906]]]}}
+]
+}

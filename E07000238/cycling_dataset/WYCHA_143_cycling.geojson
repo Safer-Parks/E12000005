@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_143_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2283495,52.2238144],[-2.2273832,52.2237565],[-2.2270819,52.2236559],[-2.2270698,52.2235093],[-2.2269724,52.2233237],[-2.2268565,52.2232718],[-2.226841,52.2232397],[-2.2267648,52.223191]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2178387,52.2214967],[-2.2188464,52.2216827],[-2.219393,52.221686],[-2.220759,52.2222531],[-2.221061,52.2223996],[-2.2233232,52.2227469]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2246557,52.2353234],[-2.2246869,52.2352904],[-2.2247052,52.2352702],[-2.224724,52.2352518],[-2.2247386,52.2352305],[-2.2247654,52.2351337]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2246673,52.2353894],[-2.2246557,52.2353234],[-2.2246487,52.2352835],[-2.2246295,52.2352594],[-2.2245385,52.2351988],[-2.2244565,52.23515],[-2.2243171,52.2350722],[-2.2242216,52.2350192],[-2.2241631,52.2349869]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2246931,52.2338482],[-2.2247334,52.2338536],[-2.224772,52.233866],[-2.2248019,52.2339023],[-2.2248073,52.2339495],[-2.224792,52.234056],[-2.2247092,52.2344788],[-2.2246879,52.2346268],[-2.2246845,52.2347878],[-2.2247026,52.2349104],[-2.2247311,52.2350291],[-2.2247654,52.2351337]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2317016,52.2265226],[-2.2317186,52.2264925],[-2.2317548,52.2264603],[-2.2320457,52.2262007],[-2.2320795,52.2261706]]]}}
+]
+}

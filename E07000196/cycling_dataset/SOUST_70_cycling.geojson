@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOUST_70_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2194424,52.6198043],[-2.2197223,52.6193929],[-2.2198759,52.6191672],[-2.2205748,52.61814],[-2.2213039,52.6171973],[-2.222313,52.6165766],[-2.2216494,52.6156004],[-2.2209086,52.6142347],[-2.2208926,52.6142066]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Gunstone Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1970914,52.633666],[-2.1965755,52.6338397],[-2.1960557,52.6340498],[-2.1953476,52.6343753],[-2.1950739,52.6345558]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Oaken Drive","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2102699,52.6225202],[-2.2098911,52.622611],[-2.2090964,52.6228437]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2115267,52.6240993],[-2.2114847,52.6241942],[-2.211178,52.6248686]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.211178,52.6248686],[-2.211006,52.6249628],[-2.2108632,52.6249953],[-2.2106619,52.6250232],[-2.2103942,52.6250479]]]}}
+]
+}

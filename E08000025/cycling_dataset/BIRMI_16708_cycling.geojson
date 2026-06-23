@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_16708_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Hotspur Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8852224,52.544015],[-1.8849561,52.5439831],[-1.8849209,52.5439668]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Hotspur Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8852361,52.5441229],[-1.8849561,52.5439831]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8875292,52.5456647],[-1.888127,52.5457504]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8924634,52.5476071],[-1.8931071,52.5472132],[-1.8936543,52.5473314]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8837111,52.5504966],[-1.8836669,52.5504234],[-1.8832828,52.5504916],[-1.8832191,52.5504566],[-1.8831059,52.550416],[-1.8829513,52.5503952],[-1.8828946,52.5503884]]]}}
+]
+}

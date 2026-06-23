@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MALHI_7_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2888784,52.0525863],[-2.2888007,52.0527265],[-2.2885861,52.052809],[-2.2884564,52.0528892],[-2.288232,52.0530267],[-2.287658,52.053505],[-2.2872664,52.053726],[-2.286443,52.0540641],[-2.2862445,52.0541681]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASST_90_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6513568,52.8449147],[-1.65142,52.8449274]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6512476,52.8448929],[-1.6513568,52.8449147]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6511607,52.8448754],[-1.6512476,52.8448929]]]}}
+]
+}

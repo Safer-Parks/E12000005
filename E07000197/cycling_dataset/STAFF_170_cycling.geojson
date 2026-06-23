@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_170_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1649777,52.8972988],[-2.1648516,52.8973125],[-2.164791,52.8973369],[-2.1647834,52.8973612],[-2.1647935,52.8974328],[-2.1647935,52.8975104],[-2.1647961,52.8975957],[-2.1647933,52.8976625]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1647834,52.8973612],[-2.1646449,52.8973297],[-2.16453,52.8973205],[-2.1643875,52.8973122],[-2.1642221,52.8973103],[-2.164098,52.8973149],[-2.1639831,52.897327],[-2.1639494,52.8973445]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1640183,52.8974536],[-2.1639494,52.8973445],[-2.1639065,52.8973029]]]}}
+]
+}

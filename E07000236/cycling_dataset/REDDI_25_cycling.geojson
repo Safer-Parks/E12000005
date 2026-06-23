@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "REDDI_25_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9554609,52.288915],[-1.956414,52.2889132],[-1.956701,52.2888615],[-1.9580916,52.2888285],[-1.9582013,52.2886699],[-1.9582991,52.2886364],[-1.958371,52.2886166]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.958371,52.2886166],[-1.9586511,52.2886304]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9535068,52.2816281],[-1.953772,52.2811182]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9455481,52.29206],[-1.945592,52.2919996],[-1.9456232,52.2919762]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9471319,52.292044],[-1.9471046,52.2920645],[-1.947048,52.2921158],[-1.946983,52.2921542]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9471347,52.2906264],[-1.9482761,52.2903898]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9433087,52.286905],[-1.9433977,52.2870658],[-1.9434304,52.2871248],[-1.943372,52.2871991],[-1.9433229,52.2872977],[-1.9434905,52.2876735]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9424061,52.287467],[-1.9424591,52.2875206],[-1.9426095,52.2875653],[-1.9426795,52.2876222]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_79_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9190598,52.1409312],[-1.9190195,52.1409313],[-1.9188309,52.1409183]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9246829,52.1400405],[-1.9247655,52.1399763],[-1.9248842,52.1399498],[-1.9250137,52.1399476],[-1.9258444,52.1399245],[-1.9268819,52.139888],[-1.9276892,52.1398649],[-1.9278493,52.1398605],[-1.9282107,52.1398583]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.929081,52.1398283],[-1.9293221,52.1399159],[-1.929504,52.1400151],[-1.9297769,52.1401814],[-1.930163,52.1404034],[-1.9304864,52.1405746],[-1.9309331,52.1408203],[-1.931491,52.141149],[-1.931584,52.1412048],[-1.9318184,52.1413152],[-1.9319195,52.1413574],[-1.9322348,52.1414852],[-1.9325764,52.1416228],[-1.9326458,52.1416522],[-1.9327831,52.1416931],[-1.9329512,52.1417611],[-1.9332231,52.1418799]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Grange Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9225173,52.1381175],[-1.9227764,52.1380401],[-1.9227972,52.138001],[-1.9226228,52.1376961],[-1.9226426,52.1376765]]]}}
+]
+}

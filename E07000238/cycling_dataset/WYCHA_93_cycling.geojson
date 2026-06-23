@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_93_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9575593,52.1238909],[-1.9575739,52.123975],[-1.9575463,52.1240376],[-1.9574318,52.1240694],[-1.9573185,52.1240738],[-1.9569262,52.1241003],[-1.9569113,52.1241348],[-1.9568479,52.1241848],[-1.9567886,52.1242125],[-1.956738,52.1242293]]]}}
+]
+}

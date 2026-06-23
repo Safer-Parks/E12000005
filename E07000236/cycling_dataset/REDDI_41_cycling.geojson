@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "REDDI_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9362596,52.2772672],[-1.9359896,52.2774483]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9359896,52.2774483],[-1.9355712,52.2776764]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9355712,52.2776764],[-1.9352731,52.2778276],[-1.9350746,52.2779326],[-1.9347957,52.2780705],[-1.9345328,52.2782477],[-1.9343343,52.2783232],[-1.9340599,52.2784365]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9535068,52.2816281],[-1.953772,52.2811182]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9433087,52.286905],[-1.9433977,52.2870658],[-1.9434304,52.2871248],[-1.943372,52.2871991],[-1.9433229,52.2872977],[-1.9434905,52.2876735]]]}}
+]
+}

@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_49_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Vicarage Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1122655,52.457561],[-2.1122597,52.4575684],[-2.1121739,52.4575817]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1173293,52.4526873],[-2.1165078,52.4524873],[-2.1152824,52.4521296],[-2.1147024,52.4518635],[-2.1144132,52.4516251],[-2.114288,52.4514973],[-2.1141672,52.4512886],[-2.1140814,52.4510613],[-2.1139332,52.450874],[-2.1136211,52.4507199],[-2.1135009,52.4505956],[-2.1134092,52.450313],[-2.1133658,52.4502138],[-2.1132712,52.450116],[-2.1132046,52.4500359],[-2.1131447,52.4498195],[-2.1130116,52.4494835],[-2.1129643,52.4493345],[-2.1129275,52.4492501],[-2.1129529,52.4492271],[-2.1130334,52.4491668],[-2.1130733,52.4491145]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1130309,52.4490963],[-2.1130733,52.4491145],[-2.1142239,52.4496103],[-2.1150553,52.4498954],[-2.1155044,52.4500208],[-2.1160949,52.4501333],[-2.1166774,52.4501826],[-2.1176975,52.4502648],[-2.1181286,52.4502762],[-2.1196868,52.4502184],[-2.1208336,52.4501415]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1175657,52.452611],[-2.1175479,52.4524991],[-2.1175183,52.4520333],[-2.1176294,52.4510776],[-2.117727,52.4505735],[-2.1177325,52.4503786],[-2.1176975,52.4502648],[-2.1176816,52.4502169],[-2.1176446,52.4501289],[-2.1175199,52.4500137],[-2.1173904,52.4498454],[-2.1171626,52.4496923],[-2.1170721,52.4495991],[-2.1168076,52.44901],[-2.1168032,52.4490003]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1015411,52.4499191],[-2.1015515,52.4501185],[-2.10191,52.451054],[-2.1021945,52.4516059]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1265996,52.4509106],[-2.1257993,52.4507784],[-2.1256738,52.4507145],[-2.125225,52.4506485],[-2.1252198,52.4506768]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1123657,52.4515045],[-2.1129489,52.4514393]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Vicarage Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1123996,52.4574082],[-2.1123497,52.4574206],[-2.112291,52.4574352],[-2.112319,52.4574861],[-2.1122958,52.4575197],[-2.1122655,52.457561]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1144313,52.4478401],[-2.1142852,52.4476839],[-2.1140793,52.4475507],[-2.1140217,52.4475193],[-2.1138342,52.4474168],[-2.1133521,52.4472202],[-2.1131756,52.4471844]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1144313,52.4478401],[-2.1144293,52.4480562],[-2.1144786,52.4481621]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1158992,52.4538928],[-2.1154907,52.4537685],[-2.1154284,52.4536989]]]}}
+]
+}

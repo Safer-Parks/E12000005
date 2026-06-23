@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORWA_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6111067,52.6058165],[-1.6111711,52.606227],[-1.6118965,52.6079455],[-1.6121337,52.6088008],[-1.612416,52.6096279],[-1.6127211,52.6104865],[-1.6129491,52.6110566],[-1.6130778,52.6112728],[-1.6131022,52.6113137]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6075233,52.6029496],[-1.6077486,52.6040377],[-1.6083387,52.6039009],[-1.6098514,52.6055689],[-1.6106191,52.6059237],[-1.6111067,52.6058165]]]}}
+]
+}

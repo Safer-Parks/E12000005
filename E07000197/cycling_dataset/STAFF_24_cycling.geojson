@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_24_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1521184,52.8291507],[-2.1523714,52.8287443],[-2.1529384,52.8282549],[-2.1538744,52.8274066]]]}}
+]
+}

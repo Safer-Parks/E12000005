@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_78_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0836862,52.4658774],[-2.0836582,52.4659985],[-2.0837561,52.4661631]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0902291,52.4599608],[-2.090303,52.4599554],[-2.0904473,52.4598493],[-2.0907409,52.4595273],[-2.0907075,52.4594703],[-2.0906808,52.4594253],[-2.0908844,52.4593382],[-2.0911199,52.4592477],[-2.0911771,52.4591788],[-2.0911283,52.4589362],[-2.0911125,52.4588526]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0794755,52.4566348],[-2.0794649,52.4566112]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Dencil Close","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0794571,52.4565905],[-2.0794649,52.4566112]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0992338,52.465652],[-2.0992372,52.4655917],[-2.0991672,52.4655283],[-2.0991108,52.465415],[-2.0990801,52.4652787],[-2.0990631,52.4651009]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.099345,52.4648309],[-2.0992498,52.4648932],[-2.0990631,52.4651009]]]}}
+]
+}

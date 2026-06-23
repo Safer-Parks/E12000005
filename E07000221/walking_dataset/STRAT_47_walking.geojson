@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "STRAT_47_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7897423,52.2712273],[-1.790842,52.2710139],[-1.7919309,52.2709023],[-1.7922206,52.2709844],[-1.7924459,52.2709844],[-1.7928465,52.2708777],[-1.7940123,52.2710221],[-1.7951871,52.270748],[-1.7953159,52.270748],[-1.795391,52.2709187],[-1.7992212,52.2689557],[-1.7993687,52.2690235],[-1.7994368,52.2690548]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8010537,52.267933],[-1.8011095,52.2678723],[-1.8019443,52.267052],[-1.8021636,52.2667988]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7994368,52.2690548],[-1.8006374,52.26824],[-1.8009677,52.2678896]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7899823,52.2713859],[-1.7900051,52.2715912],[-1.7871668,52.2736341]]]}}
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_16_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7699175,52.7166088],[-1.7697921,52.7165075],[-1.7696888,52.7163931],[-1.7686486,52.7158892]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7679711,52.7154581],[-1.7678569,52.7153154]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Heath Gap","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7686486,52.7158892],[-1.7679711,52.7154581]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7707617,52.7159392],[-1.7704943,52.7159226],[-1.7703962,52.7159114]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7703962,52.7159114],[-1.7701506,52.7158112]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7673126,52.7102175],[-1.7674205,52.7102632],[-1.7674733,52.7102855],[-1.7675359,52.7103362],[-1.7675415,52.7103857],[-1.7674969,52.7104436],[-1.7673714,52.710544],[-1.7670655,52.7107934],[-1.7669697,52.7108414]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7836207,52.7168466],[-1.7841168,52.717063],[-1.7846964,52.7176567]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7835621,52.7169108],[-1.7835372,52.7172194],[-1.7836734,52.7178867],[-1.783836,52.7183119],[-1.7838657,52.7184687],[-1.7838673,52.7194617]]]}}
+]
+}

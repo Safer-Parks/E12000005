@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NORWA_26_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6499795,52.5788473],[-1.6500257,52.5785975],[-1.6496012,52.5784455],[-1.6435461,52.5762777],[-1.643721,52.5747585],[-1.6442858,52.5731325]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6479364,52.5788412],[-1.6490664,52.5785088],[-1.6496012,52.5784455],[-1.6519442,52.5782013]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6429074,52.5715599],[-1.6435155,52.5716111],[-1.6445449,52.5716764]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6435461,52.5762777],[-1.6429139,52.5762902],[-1.6420925,52.5762982],[-1.6416194,52.5763861],[-1.6413828,52.5765219],[-1.6408242,52.5773765],[-1.6395494,52.5780074],[-1.6390828,52.5785106],[-1.6382219,52.5789458],[-1.6379196,52.5791575],[-1.6378934,52.5793052],[-1.6375714,52.579441],[-1.6367615,52.5794776]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6502129,52.5659389],[-1.650274,52.5660408],[-1.6505036,52.5665597],[-1.6504786,52.5669419],[-1.6501492,52.5673758],[-1.6497649,52.5684255],[-1.649705,52.5698786],[-1.6495852,52.5705036],[-1.649116,52.5707614],[-1.6487666,52.5708555],[-1.6482675,52.5711649],[-1.647958,52.571268],[-1.6444977,52.5718224]]]}}
+]
+}

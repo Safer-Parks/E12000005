@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_63_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7604075,52.6778295],[-1.7604496,52.6777035]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Noddington Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7610746,52.6770761],[-1.761056,52.6771351],[-1.76082,52.6773855],[-1.7605732,52.6776034],[-1.7604496,52.6777035]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Noddington Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7604075,52.6778295],[-1.7601607,52.6780095],[-1.7593665,52.6784996]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7590194,52.6712051],[-1.759086,52.6711274],[-1.7592314,52.670458]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7658737,52.6730713],[-1.7659809,52.6726591],[-1.7660424,52.6725505]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7649608,52.6735467],[-1.7651523,52.673519],[-1.7658118,52.673219]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7629017,52.677161],[-1.7632694,52.6771541],[-1.7632511,52.6770062]]]}}
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_57_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7413746,52.3819438],[-1.7409887,52.3817705],[-1.7409359,52.3817579],[-1.7402395,52.381417],[-1.7392919,52.3805591],[-1.7377695,52.3794988]]]}}
+]
+}

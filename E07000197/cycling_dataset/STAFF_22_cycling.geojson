@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_22_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0629147,52.8270177],[-2.0618204,52.8265868]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0527498,52.823084],[-2.0539317,52.8246684],[-2.0547533,52.825701],[-2.0550723,52.8258937],[-2.0582759,52.8273351],[-2.058399,52.8274378]]]}}
+]
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "WARWI_91_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5006553,52.3086373],[-1.500808,52.3086164],[-1.5011038,52.3088392],[-1.5014604,52.309025],[-1.5017589,52.3091945],[-1.5020521,52.3093447],[-1.502471,52.3094789]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5071527,52.3129797],[-1.5072864,52.3130812]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5072864,52.3130812],[-1.5076576,52.3133629]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5151409,52.3055841],[-1.5151124,52.3055536],[-1.5150583,52.3055092]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5152975,52.305677],[-1.5152809,52.3055711],[-1.5152821,52.3054926],[-1.5153262,52.3053594]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5199128,52.3046078],[-1.5200483,52.3046853]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5117051,52.3024289],[-1.5107569,52.3025767]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5208051,52.3028124],[-1.5204662,52.3030133]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5200483,52.3046853],[-1.5200525,52.3047501],[-1.5200743,52.3048113],[-1.5200872,52.3048473],[-1.520131,52.3048983],[-1.5201815,52.3049457],[-1.5202496,52.3049987],[-1.5203113,52.3050395],[-1.5205022,52.3051494],[-1.5205841,52.3051948],[-1.5206276,52.3052149],[-1.5206735,52.3052316],[-1.5207382,52.3052486],[-1.5208066,52.3052625],[-1.5209502,52.3052784]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5191921,52.3052627],[-1.5193915,52.3053458],[-1.5195662,52.3054175],[-1.5197065,52.3054946],[-1.5198171,52.3055465],[-1.5198935,52.30557],[-1.5199689,52.3055776],[-1.5200538,52.3055811],[-1.5202109,52.3055927],[-1.5202714,52.3055914],[-1.5203587,52.3055793],[-1.5204331,52.3055625],[-1.5205044,52.3055396],[-1.520583,52.3055105],[-1.5206561,52.3054716],[-1.5207235,52.305422],[-1.5207752,52.3053755],[-1.5208553,52.3053182],[-1.5209502,52.3052784],[-1.5210859,52.30528],[-1.5211672,52.3052857],[-1.5212247,52.3052966],[-1.5212898,52.3053291],[-1.5215743,52.3055439],[-1.5216228,52.3055723],[-1.5216857,52.3055917],[-1.5217745,52.3056052],[-1.5218837,52.3056395],[-1.5219591,52.305674],[-1.522061,52.3057363]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5190205,52.3051987],[-1.5191281,52.3052361],[-1.5191374,52.30524],[-1.5191921,52.3052627]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5220143,52.3030688],[-1.5219281,52.3031024],[-1.5217344,52.3031358]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5219803,52.3031518],[-1.5217344,52.3031358]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5213289,52.303756],[-1.5213922,52.3037538],[-1.521615,52.3038968],[-1.5219745,52.3041604],[-1.5220124,52.3041632]]]}}
+]
+}

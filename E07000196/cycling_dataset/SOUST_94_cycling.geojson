@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOUST_94_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Gunstone Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1970914,52.633666],[-2.1965755,52.6338397],[-2.1960557,52.6340498],[-2.1953476,52.6343753],[-2.1950739,52.6345558]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1874381,52.6310853],[-2.187153,52.6310927]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1858334,52.6311795],[-2.18555,52.6311418],[-2.1849787,52.6311681],[-2.1844471,52.6311749],[-2.1841214,52.6311854]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Gunstone Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1945847,52.6349369],[-2.1945764,52.6349694],[-2.1943692,52.6357846]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Gunstone Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1950739,52.6345558],[-2.194713,52.6347939],[-2.1945847,52.6349369]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1883367,52.6330025],[-2.1882822,52.6330046],[-2.1878999,52.6330197],[-2.1877885,52.6330143]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_25_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9028576,52.4973541],[-1.9028269,52.4974163],[-1.9025851,52.4974476],[-1.9024397,52.4973622]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9203165,52.503329],[-1.9202156,52.5033109],[-1.9198841,52.5029513]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9211886,52.4971089],[-1.9216269,52.4972813]]]}}
+]
+}

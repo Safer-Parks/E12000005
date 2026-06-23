@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WOLVE_133_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0945381,52.5964914],[-2.0948161,52.5969296],[-2.0946438,52.596989]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0937632,52.5968343],[-2.0939456,52.5973114],[-2.0940718,52.5972649],[-2.094362,52.5971579],[-2.0944407,52.5971025],[-2.0944573,52.5970384],[-2.0946438,52.596989]]]}}
+]
+}

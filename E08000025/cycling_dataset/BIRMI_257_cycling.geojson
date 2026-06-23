@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_257_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9500081,52.5109776],[-1.9500462,52.5109187],[-1.9498261,52.510787],[-1.9497909,52.5107543],[-1.9497504,52.5106799],[-1.9497935,52.5106121],[-1.9499321,52.5103528],[-1.9500141,52.5102067],[-1.9501025,52.5101003],[-1.9501133,52.5100875],[-1.950027,52.5100532]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9499185,52.5100086],[-1.9497678,52.5099864],[-1.9496363,52.5099774]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.950027,52.5100532],[-1.9499185,52.5100086]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9487117,52.5078866],[-1.9487904,52.5078847],[-1.9489348,52.5078811]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Holyhead Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9490032,52.5066962],[-1.9487147,52.5065844],[-1.9486841,52.5065732],[-1.9485907,52.5065399],[-1.9480044,52.5063125]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Holyhead Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9480044,52.5063125],[-1.9478432,52.5062559],[-1.9474062,52.5061033],[-1.9469837,52.5059683],[-1.9468505,52.5059233],[-1.9458939,52.5056194],[-1.9458306,52.5056004],[-1.9456802,52.505557]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Holyhead Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9456802,52.505557],[-1.945631,52.5055413],[-1.9452422,52.505422],[-1.9451651,52.5053984],[-1.9447805,52.5052804],[-1.944204,52.5051017],[-1.9437779,52.5049696],[-1.943614,52.5049186],[-1.9435757,52.5049067]]]}}
+]
+}

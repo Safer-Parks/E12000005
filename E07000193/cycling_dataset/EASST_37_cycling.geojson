@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASST_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6206413,52.8000779],[-1.6206847,52.7999592],[-1.6208531,52.7998049],[-1.6210368,52.799703],[-1.6213481,52.7995534],[-1.6215012,52.7994917]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6221629,52.799809],[-1.621981,52.7997786],[-1.62181,52.7997416],[-1.6216799,52.7996984],[-1.6215497,52.7996321],[-1.6215012,52.7994917],[-1.6213532,52.7993698],[-1.6212665,52.7993127],[-1.6211899,52.799322],[-1.6210087,52.7993868],[-1.6209807,52.7994053]]]}}
+]
+}

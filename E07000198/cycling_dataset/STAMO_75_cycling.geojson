@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "STAMO_75_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"St Peters Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0593032,52.9679534],[-2.0590895,52.9677034],[-2.0588698,52.9674619],[-2.058676,52.967297],[-2.0586902,52.9672232],[-2.0591097,52.9669222]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0554729,52.9640849],[-2.0554721,52.9641166],[-2.0554714,52.9641471],[-2.055407,52.9642247],[-2.0553533,52.9642731],[-2.0553051,52.9643087],[-2.0552943,52.9643442]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0552943,52.9643442],[-2.055348,52.9644056]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.055348,52.9644056],[-2.0552498,52.9645885]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.057249,52.9602643],[-2.0572168,52.9602804],[-2.0571626,52.9603035],[-2.0571167,52.9603275],[-2.0570375,52.9603695],[-2.0569915,52.9603919]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0549852,52.9585807],[-2.0549102,52.958626],[-2.0548692,52.9586534],[-2.0548273,52.9586798],[-2.0547744,52.9587266],[-2.0545909,52.958857],[-2.0542368,52.9590362]]]}}
+]
+}

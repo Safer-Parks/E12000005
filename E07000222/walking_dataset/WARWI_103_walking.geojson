@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WARWI_103_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5533034,52.3246799],[-1.5533358,52.3246766],[-1.5533565,52.3246618]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5538615,52.3245359],[-1.5534747,52.324585],[-1.5534291,52.3246031]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5533034,52.3246799],[-1.5532587,52.3246839],[-1.5532113,52.3246882]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5534291,52.3246031],[-1.5533955,52.3246287],[-1.5533565,52.3246618]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5538615,52.3245359],[-1.5539226,52.324528]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5532113,52.3246882],[-1.5531827,52.3246898]]]}}
+]
+}

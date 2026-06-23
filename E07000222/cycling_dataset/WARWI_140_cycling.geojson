@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "WARWI_140_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7587348,52.3423391],[-1.758599,52.342403]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7498017,52.3470074],[-1.7527657,52.3462201]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7482046,52.3459912],[-1.747983,52.3460682],[-1.7479864,52.3464342],[-1.7480342,52.3466451],[-1.7480453,52.3466945],[-1.7480141,52.3468193],[-1.7479553,52.3469039],[-1.7478271,52.3469716],[-1.7476886,52.3470224],[-1.7475639,52.3470711],[-1.7474565,52.3471472],[-1.7473763,52.3472364],[-1.7473512,52.3472643],[-1.7472804,52.3473746],[-1.747269,52.3474932],[-1.7473307,52.3475853],[-1.747472,52.3476379]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.748324,52.3459497],[-1.7482046,52.3459912]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7480342,52.3466451],[-1.7468306,52.3467478],[-1.7466773,52.3467609]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7468306,52.3467478],[-1.7469486,52.3471311],[-1.7472813,52.3471057],[-1.7473763,52.3472364]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7480635,52.3441069],[-1.7479573,52.3440896]]]}}
+]
+}

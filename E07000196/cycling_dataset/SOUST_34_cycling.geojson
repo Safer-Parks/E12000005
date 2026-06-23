@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "SOUST_34_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Farm Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3040714,52.6082478],[-2.3036726,52.6091896],[-2.3035403,52.6096257],[-2.3023688,52.6122301],[-2.3018673,52.6134541]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Path in St Marys churchyard","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2958791,52.6030918],[-2.2957864,52.6033413]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2818256,52.5915806],[-2.2818608,52.5916806],[-2.2826666,52.5939304],[-2.2829132,52.5943797],[-2.2832037,52.5950512],[-2.2838331,52.5966343],[-2.2845057,52.5982069],[-2.2855572,52.6006926],[-2.2856404,52.6012067],[-2.2857776,52.6019124],[-2.2859309,52.6023485],[-2.286181,52.6037549],[-2.286415,52.6052446],[-2.2864957,52.606058],[-2.2863082,52.606392]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2918082,52.5909297],[-2.2933682,52.5891685],[-2.293406,52.5891258]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.293406,52.5891258],[-2.2934708,52.5890497],[-2.2935711,52.5889317],[-2.2937497,52.5886077],[-2.2938899,52.588389],[-2.2939558,52.5883322],[-2.2940438,52.5882871],[-2.2940136,52.5881652],[-2.2939943,52.5880684],[-2.2940356,52.5880099],[-2.294184,52.5879482]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2933682,52.5891685],[-2.2935839,52.5892077],[-2.2938812,52.5891873],[-2.2941998,52.5891679],[-2.2944829,52.5891679],[-2.2947271,52.5891808],[-2.2951093,52.5892099],[-2.2951978,52.5892701],[-2.2952598,52.5893195],[-2.2953217,52.5893486],[-2.2957375,52.5893926],[-2.2957075,52.5895829]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2934708,52.5890497],[-2.2936027,52.5889922],[-2.2937018,52.5889599],[-2.2938133,52.5889245],[-2.293985,52.5889062],[-2.2941756,52.58889]]]}}
+]
+}

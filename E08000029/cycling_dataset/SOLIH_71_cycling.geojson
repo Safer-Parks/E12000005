@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_71_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6415113,52.3670463],[-1.6415655,52.3670106],[-1.6416555,52.3670074],[-1.6417281,52.3670041],[-1.6418173,52.3670078],[-1.641874,52.3670106]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6447486,52.3681073],[-1.6447881,52.368213],[-1.6443428,52.3689085],[-1.6440783,52.3692933],[-1.6441042,52.3693419],[-1.6447523,52.3695216],[-1.6461222,52.3698857]]]}}
+]
+}

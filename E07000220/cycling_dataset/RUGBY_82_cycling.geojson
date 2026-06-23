@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_82_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3396128,52.357222],[-1.3407815,52.3571813],[-1.3410922,52.3570277],[-1.3412549,52.3567657],[-1.3417431,52.3566618],[-1.3427047,52.3565308],[-1.3436756,52.3562166]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3430006,52.354674],[-1.3426382,52.3548411],[-1.341499,52.3556182],[-1.3396128,52.357222],[-1.3384663,52.3580261],[-1.3385329,52.3595665],[-1.3389027,52.3598375],[-1.3392356,52.3599053],[-1.3411946,52.3598138]]]}}
+]
+}

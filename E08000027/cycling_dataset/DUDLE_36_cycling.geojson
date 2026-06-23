@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Lutley Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0870464,52.4452784],[-2.0865359,52.4451467],[-2.0854527,52.4463322],[-2.0851151,52.4464522],[-2.08489,52.4466466],[-2.0825922,52.4481556],[-2.0823484,52.4483328],[-2.0822171,52.4484814],[-2.0810072,52.4491331],[-2.0805008,52.4494532],[-2.0802194,52.4496875],[-2.079985,52.4497561],[-2.0795442,52.4497275],[-2.0793948,52.4498185],[-2.0792253,52.4499219],[-2.0782499,52.4507049],[-2.0778163,52.4510462],[-2.077284,52.4515794],[-2.0771396,52.4517199],[-2.0770099,52.4518225],[-2.0768865,52.4518749],[-2.0766586,52.4519357],[-2.0764759,52.451959],[-2.0763571,52.4519606],[-2.0762687,52.4519584],[-2.0759907,52.4519111]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0794755,52.4566348],[-2.0794649,52.4566112]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Dencil Close","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0794571,52.4565905],[-2.0794649,52.4566112]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0725843,52.4603988],[-2.0725843,52.460376],[-2.0726753,52.4603618],[-2.0736606,52.4604476],[-2.0740787,52.4603945],[-2.0746797,52.4600613]]]}}
+]
+}

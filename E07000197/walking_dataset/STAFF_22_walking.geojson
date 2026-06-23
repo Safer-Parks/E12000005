@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_22_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0629147,52.8270177],[-2.0618204,52.8265868]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.068806,52.8258947],[-2.0685304,52.8262985],[-2.068312,52.8265037]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0682608,52.8257008],[-2.0677753,52.8259909],[-2.0676694,52.8262417],[-2.0676235,52.8263011]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0527498,52.823084],[-2.0539317,52.8246684],[-2.0547533,52.825701],[-2.0550723,52.8258937],[-2.0582759,52.8273351],[-2.058399,52.8274378]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0722292,52.8296945],[-2.0709893,52.8281233],[-2.0704901,52.8278022],[-2.0700331,52.8277882]]]}}
+]
+}

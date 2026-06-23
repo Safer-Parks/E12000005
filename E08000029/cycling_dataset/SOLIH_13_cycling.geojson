@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Conker Lane","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7606683,52.3771609],[-1.7603139,52.3768501],[-1.7598486,52.3763474],[-1.7595275,52.3759843],[-1.7592372,52.3756065],[-1.7590355,52.3753733]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7588788,52.3844502],[-1.7590033,52.384361],[-1.7590751,52.3843215],[-1.7590881,52.3842678]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7519723,52.3741252],[-1.7518034,52.3741301],[-1.7516601,52.3741138],[-1.7513806,52.3740736],[-1.7511637,52.3740363],[-1.750991,52.3739794]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7590881,52.3842678],[-1.7590867,52.3841759],[-1.7590772,52.3840458],[-1.7589872,52.3838492],[-1.7588403,52.3835282],[-1.7587697,52.3834397]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7618457,52.3781084],[-1.7620201,52.3780281],[-1.7622877,52.377896]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7612667,52.3776817],[-1.7615743,52.3775032]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7590355,52.3753733],[-1.7591174,52.3753154]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7587863,52.3834627],[-1.7587697,52.3834397],[-1.758512,52.3830827],[-1.7584641,52.3829788],[-1.7584305,52.3829042],[-1.7584271,52.3828508],[-1.7587972,52.3825093],[-1.7590991,52.382284],[-1.759155,52.3822145],[-1.7592123,52.3821392],[-1.759344,52.381903],[-1.7594585,52.3817822]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Conker Lane","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7640861,52.3794987],[-1.7634766,52.3791418],[-1.7623636,52.37849]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7684104,52.3749895],[-1.7685824,52.3750403]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Conker Lane","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7623636,52.37849],[-1.7618457,52.3781084],[-1.7612667,52.3776817],[-1.7610923,52.3775532],[-1.7607842,52.3772681],[-1.7607567,52.3772426],[-1.7606683,52.3771609]]]}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TAMWO_11_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Hill Top Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6957281,52.6489726],[-1.6955174,52.6490033]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6944802,52.6437052],[-1.6946062,52.643677],[-1.6946706,52.6436737],[-1.6947461,52.6436885],[-1.6948383,52.6436876],[-1.6949147,52.6436526],[-1.6950093,52.6436088],[-1.6951327,52.6435642],[-1.6953557,52.6435612],[-1.6955423,52.6435362],[-1.6957982,52.6434765]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Cope's Drive","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6963505,52.643132],[-1.6955804,52.643149]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.702127,52.6444627],[-1.7013687,52.6444975],[-1.70119,52.6445657]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Apollo","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7027557,52.63657],[-1.703118,52.63727],[-1.7032425,52.637467],[-1.7033992,52.6376193],[-1.7034825,52.6376787],[-1.703737,52.6378705],[-1.7039097,52.6379715],[-1.7040433,52.6380271],[-1.7041117,52.6380442],[-1.7042225,52.638072],[-1.704487,52.6381272],[-1.7049081,52.6381717]]]}}
+]
+}

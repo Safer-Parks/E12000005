@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_49_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9879409,52.7875242],[-1.9879216,52.7875429],[-1.9879101,52.7875357]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9879101,52.7875357],[-1.9878507,52.7875895]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9878507,52.7875895],[-1.9878507,52.7876099],[-1.9878481,52.7876175],[-1.9878315,52.7876209]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9866572,52.7879333],[-1.9868528,52.7878858],[-1.9875138,52.7877517],[-1.9877708,52.7877458]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9922747,52.7875856],[-1.9922376,52.7876459],[-1.9921519,52.7877163],[-1.9920514,52.787799],[-1.9919767,52.7878216],[-1.9910894,52.7879501],[-1.990522,52.7880207],[-1.9903247,52.7880483]]]}}
+]
+}

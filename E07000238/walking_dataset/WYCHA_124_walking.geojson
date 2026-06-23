@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_124_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1204156,52.2973479],[-2.1222744,52.2965417],[-2.122507,52.2964472],[-2.1229554,52.2962651],[-2.124144,52.2956192],[-2.1241866,52.2955809]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.122507,52.2964472],[-2.1215531,52.295794]]]}}
+]
+}

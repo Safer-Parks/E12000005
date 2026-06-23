@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_43_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8123665,52.4067907],[-1.8124265,52.4066979],[-1.812554,52.4066087],[-1.8126464,52.4065851]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8115431,52.4074021],[-1.8114972,52.4074781],[-1.8113646,52.4075786],[-1.8112522,52.4076444]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8102456,52.4085936],[-1.8102218,52.4085491],[-1.8103594,52.4083991],[-1.810444,52.4083782]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.8086367,52.4106819],[-1.8086135,52.4106323],[-1.8086318,52.4105849],[-1.8087007,52.4105292],[-1.8087591,52.4105152]]]}}
+]
+}

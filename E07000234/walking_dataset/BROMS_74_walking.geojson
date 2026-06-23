@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BROMS_74_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0063112,52.3569356],[-2.0058719,52.35678],[-2.0056394,52.356638],[-2.0055126,52.3563453],[-2.0053329,52.3560936],[-2.0052907,52.3559624],[-2.0054351,52.3557106],[-2.0055197,52.3555363],[-2.005576,52.3554094],[-2.0055549,52.3552631]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0047443,52.3619761],[-2.0046086,52.3620084]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"Old Orchard Way","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.001571,52.3557767],[-2.0016174,52.3558012],[-2.0018369,52.3558516],[-2.0020881,52.3559332],[-2.0020666,52.356068],[-2.0020434,52.3563368],[-2.0021563,52.3565991],[-2.0024461,52.3573568],[-2.0026267,52.3578646],[-2.0027937,52.3584317],[-2.003235,52.3589007],[-2.0036927,52.3591923],[-2.0041293,52.3594358],[-2.0046819,52.3597271]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_243_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.916966,52.5219288],[-1.9159824,52.5224196],[-1.9149554,52.5229613]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9080399,52.5199782],[-1.9081311,52.5198469],[-1.9082107,52.5196052],[-1.9083241,52.5191957],[-1.908365,52.5185943],[-1.9084644,52.5182313],[-1.9086399,52.5181103],[-1.9089849,52.5181138],[-1.9099499,52.5183807],[-1.910789,52.5186407],[-1.9114297,52.5188739],[-1.9119925,52.5191107],[-1.9137647,52.5198977],[-1.915052,52.5206591],[-1.9164889,52.5216391],[-1.916966,52.5219288],[-1.9176684,52.5223604],[-1.9182987,52.5227786],[-1.9186618,52.5230905],[-1.9208518,52.5247569],[-1.9214244,52.5252595]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"River Tame Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9217971,52.5255475],[-1.9214244,52.5252595],[-1.9211808,52.5252334],[-1.9209372,52.5252813],[-1.9207437,52.5253567],[-1.9199485,52.5252247],[-1.919813,52.5252252]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9079675,52.5151504],[-1.9078942,52.5152603],[-1.9079335,52.515303]]]}}
+]
+}

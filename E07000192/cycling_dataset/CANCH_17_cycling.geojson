@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "CANCH_17_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9552711,52.663139],[-1.955127,52.663227],[-1.9550271,52.6633205],[-1.9549785,52.6633811],[-1.9547847,52.6635936],[-1.9546911,52.6636556],[-1.9546308,52.6636885],[-1.9545439,52.6637186],[-1.9544896,52.6637371],[-1.9543667,52.6637908]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9533928,52.6639696],[-1.953566,52.6639772],[-1.9536917,52.6639549],[-1.9538133,52.6639127],[-1.9540353,52.6637999],[-1.9541108,52.6637942],[-1.9541968,52.6637875],[-1.9543186,52.6637829],[-1.9543667,52.6637908]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9781388,52.670661],[-1.9782097,52.6707776],[-1.9789097,52.6715168],[-1.9794845,52.6722827]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9529199,52.663634],[-1.9532809,52.6635304],[-1.9533755,52.6635277],[-1.9535844,52.6636019],[-1.9539073,52.6637426],[-1.9540353,52.6637999]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9583927,52.6714442],[-1.9584377,52.6712872],[-1.9583063,52.6695677],[-1.9582946,52.6694149],[-1.9581039,52.6687426],[-1.9578935,52.668276],[-1.9576509,52.6677378],[-1.9570479,52.6664264],[-1.9565253,52.6652899],[-1.9560206,52.6648307],[-1.9543667,52.6637908]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9577018,52.6699942],[-1.9578416,52.6697981],[-1.9583063,52.6695677],[-1.9591172,52.6692342],[-1.959296,52.6690173],[-1.9592721,52.6685764],[-1.9590695,52.6679691],[-1.9587714,52.6672606],[-1.9584098,52.666767],[-1.9577012,52.6660455],[-1.9565253,52.6652899]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9561611,52.6667375],[-1.9570479,52.6664264]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.959296,52.6690173],[-1.9578935,52.668276],[-1.9565627,52.6675544]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9567417,52.6613369],[-1.9569895,52.6612067]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Norton Branch","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.960709,52.6625812],[-1.9594945,52.6611372]]]}}
+]
+}

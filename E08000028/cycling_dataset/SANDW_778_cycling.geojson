@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "SANDW_778_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0195016,52.5534994],[-2.0194823,52.553547],[-2.0194625,52.5536021],[-2.0196531,52.5536352],[-2.0196197,52.5536914],[-2.0195942,52.5537362]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.014665,52.5667793],[-2.0148512,52.5666605],[-2.0149444,52.5666492]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0064163,52.5574331],[-2.006365,52.5572478],[-2.0063596,52.557101],[-2.0064455,52.5569738],[-2.0065528,52.5569119],[-2.0069015,52.5569021],[-2.0070286,52.5568966],[-2.0070525,52.5568588]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0084967,52.5542843],[-2.0084304,52.5542791],[-2.0077701,52.5543128]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0203168,52.5539443],[-2.0202801,52.5539077],[-2.020228,52.5538866],[-2.0195942,52.5537362]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0100238,52.56462],[-2.0102071,52.5646329],[-2.01208,52.5646893],[-2.0128526,52.5647064],[-2.013537,52.5647086]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Holden Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0139946,52.5510801],[-2.012386,52.5516552],[-2.0112069,52.5521242]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Hydes Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0107127,52.5522144],[-2.0104977,52.5520546],[-2.0101688,52.5518249],[-2.009915,52.5516258],[-2.0096421,52.5513468],[-2.0095192,52.55125],[-2.0094216,52.5512027]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Holden Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0112069,52.5521242],[-2.0110726,52.5522037],[-2.010964,52.5522446],[-2.0109517,52.5522492],[-2.0108797,52.5522682]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Holden Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0108539,52.5522222],[-2.010901,52.552216],[-2.0109334,52.5522063],[-2.0112069,52.5521242]]]}}
+]
+}

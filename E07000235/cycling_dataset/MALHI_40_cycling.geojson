@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "MALHI_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3262796,52.1395778],[-2.3265325,52.1393786],[-2.3266905,52.1392542],[-2.3273204,52.1388153],[-2.3275545,52.1386327],[-2.3278899,52.1383832],[-2.3280415,52.1382937],[-2.3283463,52.138035],[-2.32844,52.1379199],[-2.328435,52.1378925]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3298212,52.1282695],[-2.3290926,52.1284185]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3290926,52.1284185],[-2.3291644,52.1283473]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3291644,52.1283473],[-2.3289984,52.128359]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3305557,52.1332635],[-2.3305315,52.1331821],[-2.3305266,52.1331673],[-2.3304324,52.1328855],[-2.3302819,52.1328956],[-2.3301709,52.1329027],[-2.3301585,52.1327859]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3296893,52.1277939],[-2.3296862,52.1274966]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3179276,52.1314033],[-2.3179313,52.1313778]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3179313,52.1313778],[-2.3179336,52.1313642],[-2.3179412,52.1312325],[-2.317977,52.1311912]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3192092,52.1316275],[-2.3190851,52.1315437],[-2.3186863,52.1314566],[-2.3181457,52.131437],[-2.3179205,52.131437],[-2.3179276,52.1314033]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3301585,52.1327859],[-2.3299807,52.1325704]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Bond Street","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3213538,52.1290492],[-2.3213178,52.1289925],[-2.3211808,52.1287772]]]}}
+]
+}

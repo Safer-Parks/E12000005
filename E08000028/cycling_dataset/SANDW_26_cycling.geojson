@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "SANDW_26_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9484453,52.4828353],[-1.9485856,52.4827738],[-1.9488044,52.4826845]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9495227,52.4873838],[-1.9498795,52.4875239],[-1.9500111,52.4875231]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9577127,52.4838865],[-1.9576254,52.4838887]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9500111,52.4875231],[-1.950106,52.487612],[-1.9501524,52.4876354],[-1.9503281,52.4876808],[-1.9506583,52.4877067],[-1.9507928,52.4877067],[-1.9509371,52.4876766],[-1.9509595,52.4877054],[-1.9510142,52.4877669],[-1.9503598,52.4879114],[-1.9502233,52.4879632],[-1.9501383,52.4880643],[-1.9501376,52.4882605]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9510142,52.4877669],[-1.9512215,52.4877057],[-1.951266,52.4876395]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.950106,52.487612],[-1.950174,52.4874395],[-1.9501178,52.487354]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.949302,52.4894961],[-1.9498158,52.4894173],[-1.9499592,52.4893577],[-1.9499923,52.4892544],[-1.9500658,52.489209],[-1.9501269,52.4892009],[-1.9501349,52.4891715],[-1.9500598,52.4888792],[-1.9500008,52.4884365],[-1.9500169,52.4883582]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9679162,52.4913577],[-1.9678787,52.4912704],[-1.9678378,52.4911755],[-1.9677415,52.4909517],[-1.9676492,52.490781],[-1.9675034,52.4905782],[-1.9674074,52.4904452],[-1.967367,52.4903898]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.967367,52.4903898],[-1.9669624,52.4900588],[-1.9661738,52.4894533],[-1.9660477,52.4893052]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9659567,52.4891985],[-1.9659258,52.4891622],[-1.9655517,52.4886486]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9659567,52.4891985],[-1.9660477,52.4893052]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9431755,52.4914483],[-1.9434441,52.4912358],[-1.94372,52.491346],[-1.9441179,52.4909748]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Grange Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9673572,52.4851388],[-1.9671761,52.4851045],[-1.9671416,52.4851013],[-1.966812,52.4850671],[-1.9663621,52.4850204],[-1.9652964,52.4849173],[-1.9650855,52.4849023],[-1.9647626,52.4848819],[-1.9647126,52.4848789],[-1.9646744,52.484877]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Waterloo Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9644445,52.4849264],[-1.9640648,52.485216],[-1.9639916,52.48527],[-1.9638929,52.4853365],[-1.9638163,52.4853801],[-1.9636884,52.4854398],[-1.9634143,52.4855635],[-1.962769,52.4858539],[-1.9622199,52.4860951],[-1.9617323,52.4862923],[-1.9613573,52.4864217],[-1.9610027,52.4865389]]]}}
+]
+}

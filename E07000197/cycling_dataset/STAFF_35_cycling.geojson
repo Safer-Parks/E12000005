@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_35_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1203055,52.7902906],[-2.1204348,52.7899294],[-2.1205045,52.7897185],[-2.1204886,52.7896346],[-2.1204789,52.7895832],[-2.1204227,52.7894788],[-2.1203711,52.7893828],[-2.1202966,52.7893063],[-2.1201628,52.7891978],[-2.1199291,52.7890436],[-2.1192035,52.7886198],[-2.118639,52.7882739],[-2.1184517,52.7881672],[-2.1181225,52.7879052],[-2.1179972,52.7878206],[-2.1178567,52.7877354],[-2.1176802,52.7876376],[-2.1172686,52.7873792],[-2.1170929,52.7872495],[-2.116992,52.7871552],[-2.1167694,52.7869394]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1312916,52.7854578],[-2.1311934,52.785653],[-2.1314012,52.7861057],[-2.131507,52.7863404],[-2.1315643,52.7865271],[-2.1315555,52.7866578],[-2.131483,52.7867451]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.126827,52.7931182],[-2.1257823,52.7928891],[-2.1253853,52.7927724],[-2.1248113,52.7925842],[-2.1245182,52.7924163],[-2.1244005,52.7923552]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1256112,52.7891123],[-2.1254214,52.7892348],[-2.1252873,52.7892802],[-2.1250699,52.7894]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1303977,52.787258],[-2.1302023,52.7873001],[-2.1294133,52.7873268]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.134129,52.7873621],[-2.1339575,52.7873576],[-2.1338798,52.7873203],[-2.133692,52.7872084],[-2.1335874,52.7871646],[-2.1334794,52.7871418],[-2.1331502,52.7871159],[-2.1329227,52.7870784],[-2.1326952,52.7870051]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1341677,52.7876307],[-2.1339817,52.7876204],[-2.1337859,52.7876107],[-2.1336302,52.7875783]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1337859,52.7876107],[-2.1337269,52.7876464],[-2.1336879,52.7876493]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1336407,52.7906302],[-2.1339071,52.7903776]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1356396,52.7912715],[-2.1352641,52.7910941]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1340677,52.7878853],[-2.1336709,52.7877587],[-2.1336343,52.787712],[-2.133577,52.7876979],[-2.1335609,52.7876646],[-2.1335194,52.787633],[-2.1334335,52.7876305],[-2.1333678,52.7876476],[-2.1332849,52.7876149]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1332677,52.7876085],[-2.133117,52.7875794],[-2.1330419,52.7875064],[-2.1330232,52.7874675]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1341898,52.7913372],[-2.1344858,52.7911024],[-2.1345654,52.7910393]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1325034,52.7872506],[-2.1327576,52.7873832]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1327323,52.7867004],[-2.1325484,52.7866556],[-2.1324197,52.7866443],[-2.1323365,52.786654],[-2.1322078,52.7866572]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1356883,52.7880208],[-2.1350293,52.787776]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1204767,52.7894665],[-2.1204227,52.7894788]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.131582,52.7851117],[-2.1312916,52.7854578]]]}}
+]
+}

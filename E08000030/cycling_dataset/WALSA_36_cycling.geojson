@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WALSA_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"School Street","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0288864,52.5643807],[-2.0289505,52.5643608],[-2.0290147,52.564341]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0319731,52.5671351],[-2.0320211,52.5671986]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0325302,52.5685802],[-2.0326136,52.5683123],[-2.0328103,52.5679832]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0301036,52.5706414],[-2.0300557,52.5706173],[-2.0299749,52.5705768],[-2.0297969,52.5704874],[-2.029455,52.5701614]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0300495,52.5706849],[-2.0300557,52.5706173]]]}}
+]
+}

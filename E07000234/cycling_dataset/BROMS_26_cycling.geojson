@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BROMS_26_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0147475,52.3743055],[-2.0146493,52.3742446],[-2.0145927,52.3741934],[-2.0143875,52.3741572],[-2.0142172,52.3740986],[-2.0140186,52.3739877],[-2.0139343,52.3739074],[-2.0138341,52.373856],[-2.013571,52.3738152],[-2.0133156,52.3737242],[-2.0130604,52.3736005],[-2.0126708,52.373335]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0138341,52.373856],[-2.0137693,52.3739415],[-2.0137571,52.37411],[-2.0137044,52.3742685],[-2.0136557,52.3743379],[-2.0135137,52.3743998]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0138341,52.373856],[-2.013903,52.3737904],[-2.013877,52.3736408],[-2.0139628,52.3734481],[-2.0138701,52.3732973],[-2.0138907,52.3731465],[-2.0138393,52.3730041],[-2.0138415,52.3728913]]]}}
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "STRAT_133_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"School Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7337946,52.2458616],[-1.73345,52.2465184],[-1.7330191,52.2470995],[-1.7322376,52.2478209],[-1.7320673,52.2481115],[-1.7321174,52.2487828],[-1.7325582,52.2491435],[-1.7327686,52.2497146],[-1.7327085,52.2505062],[-1.7325983,52.2506865],[-1.7328588,52.2510272],[-1.7334901,52.2514179],[-1.7337088,52.2516606]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7286164,52.2435784],[-1.7285865,52.2437176],[-1.7284389,52.2438227],[-1.7283737,52.2439908],[-1.728336,52.2441904],[-1.7281392,52.2443971]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7339183,52.2455839],[-1.7339626,52.245591],[-1.7346973,52.2457093],[-1.7351304,52.2457832]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7330947,52.2429926],[-1.7331246,52.2429162],[-1.7333908,52.242809],[-1.7343902,52.2424858],[-1.7344734,52.2424151]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ash Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7379589,52.2412745],[-1.7382366,52.2407112],[-1.7390519,52.2397914],[-1.7403179,52.2386745]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"School Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7337946,52.2458616],[-1.7338104,52.2458316]]]}}
+]
+}
