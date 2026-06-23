@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_181_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4143266,52.5117464],[-2.4144608,52.511809],[-2.4160648,52.5121485],[-2.417929,52.512215],[-2.4198488,52.5125687],[-2.4220431,52.5128358],[-2.4248249,52.5129219],[-2.4268854,52.5136326],[-2.4271131,52.513838],[-2.4276538,52.514501],[-2.427914,52.514887],[-2.428475,52.5157133],[-2.4287393,52.5157702],[-2.4288572,52.5158766],[-2.4290686,52.5162279],[-2.4294049,52.5163802]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4256149,52.5229852],[-2.4256147,52.5231933]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4165157,52.5109723],[-2.4162866,52.5114179],[-2.4160648,52.5121485],[-2.415523,52.5138863],[-2.4155251,52.5139158],[-2.4155417,52.5139531],[-2.4154995,52.514371],[-2.4150177,52.5145229]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4252565,52.5235529],[-2.4267795,52.5242292]]]}}
+]
+}

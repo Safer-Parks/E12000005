@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_685_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3892144,52.6819213],[-2.388307,52.6818119],[-2.3862437,52.6812069],[-2.3823293,52.6805331],[-2.376879,52.6796255]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3717696,52.6755746],[-2.3722105,52.6755703]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.371772,52.675471],[-2.3722091,52.6754688]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3713698,52.67682],[-2.3714195,52.6768273]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3714269,52.6740818],[-2.3715207,52.6741475],[-2.3715515,52.6743931],[-2.3716079,52.6744582],[-2.3716683,52.6744928]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3720263,52.6764236],[-2.3720866,52.6762227],[-2.3716843,52.6761845]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3716883,52.6757186],[-2.3720786,52.6757641]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3709767,52.6748928],[-2.3709504,52.6750071],[-2.3709869,52.6750908],[-2.3710379,52.6752046],[-2.3710728,52.6753673],[-2.371105,52.6756096],[-2.3710164,52.6758503],[-2.3709065,52.6760243],[-2.3708957,52.6761788],[-2.3707831,52.6762861],[-2.3707455,52.6764292],[-2.3706839,52.6765252],[-2.370531,52.6766],[-2.3703402,52.6766068],[-2.3703023,52.6766191]]]}}
+]
+}

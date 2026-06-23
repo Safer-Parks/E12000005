@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_1152_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8320609,52.6748682],[-2.8318665,52.6750754],[-2.831004,52.6759949],[-2.8303957,52.6771983],[-2.8303017,52.6776994],[-2.8301767,52.6779262],[-2.8301085,52.6780602]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8315839,52.6745388],[-2.8318985,52.6747126],[-2.8319582,52.6747231],[-2.8320313,52.6747174]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8317728,52.6740069],[-2.8317906,52.6743298],[-2.8319429,52.6746535],[-2.8319582,52.6747231],[-2.8320189,52.6747918],[-2.8320609,52.6748682]]]}}
+]
+}

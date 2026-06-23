@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_690_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5840904,52.6603125],[-2.5853023,52.6625777],[-2.5854344,52.6625949]]]}}
+]
+}

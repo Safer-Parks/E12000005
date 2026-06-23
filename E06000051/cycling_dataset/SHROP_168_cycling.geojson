@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_168_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6743539,52.3814155],[-2.6743593,52.3812708],[-2.6744505,52.3811267],[-2.6746061,52.3810285],[-2.6748582,52.3810023],[-2.6750191,52.3810187],[-2.6751425,52.381035]]]}}
+]
+}

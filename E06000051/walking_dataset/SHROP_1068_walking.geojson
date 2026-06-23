@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_1068_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6033943,52.6444842],[-2.6026111,52.6453423],[-2.6020961,52.6468526],[-2.5991196,52.6476484]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6015483,52.6491175],[-2.6005083,52.6505686],[-2.5983047,52.6516257],[-2.5982643,52.6516263]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5981922,52.6517682],[-2.5982123,52.6518557],[-2.5984448,52.6520352],[-2.5986589,52.6521652],[-2.5987273,52.6522332],[-2.5987613,52.652355],[-2.5988163,52.6524383],[-2.5990007,52.65253],[-2.5991659,52.6525685],[-2.5995705,52.6526418],[-2.5999074,52.6526628],[-2.6004224,52.6526628],[-2.6009803,52.6527018],[-2.6016026,52.652806]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6016026,52.652806],[-2.6025521,52.6526221],[-2.6035928,52.652596],[-2.6040917,52.6526237],[-2.6049715,52.6524805],[-2.6061087,52.6523764],[-2.6077507,52.6518276]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5915799,52.6543423],[-2.5935498,52.655958],[-2.5940845,52.6580996],[-2.5941102,52.6587738],[-2.5942161,52.6589644]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5984959,52.6522358],[-2.5986552,52.6523123],[-2.5987613,52.652355]]]}}
+]
+}
