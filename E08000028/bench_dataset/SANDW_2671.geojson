@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SANDW_2671",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13454692297, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0166796, 52.504742 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13454692295, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0167859, 52.5047435 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13454692296, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0167325, 52.504748 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_478",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12508248600, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.114289, 52.4574332 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12508248598, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1143233, 52.4574483 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10834304744, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1143623, 52.4574621 ] } }
+]
+}
