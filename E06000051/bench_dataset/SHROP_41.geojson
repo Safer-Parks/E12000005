@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_41",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9319286395, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7252129, 52.3659814 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9319286394, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7251894, 52.3659966 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9319286389, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7251083, 52.3661272 ] } }
+]
+}

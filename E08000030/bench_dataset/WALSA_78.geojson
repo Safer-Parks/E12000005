@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WALSA_78",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7995802409, "name": "Diana Memorial Bench", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9673373, 52.6353663 ] } }
+]
+}

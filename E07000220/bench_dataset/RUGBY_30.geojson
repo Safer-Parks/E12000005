@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_30",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 698568249, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4094034, 52.412787 ] } },
+{ "type": "Feature", "properties": { "osm_id": 698568257, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4100606, 52.4133571 ] } },
+{ "type": "Feature", "properties": { "osm_id": 698568255, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4109047, 52.4138131 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10096356974, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4106615, 52.4145019 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10096356975, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4103297, 52.4145186 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10096356976, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.409974, 52.4145326 ] } }
+]
+}

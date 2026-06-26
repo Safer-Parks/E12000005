@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WALSA_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9040060392, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9320112, 52.645988 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9040060393, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9319549, 52.6460164 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9040060394, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9320327, 52.6460335 ] } }
+]
+}

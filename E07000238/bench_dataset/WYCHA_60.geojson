@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_60",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8779195165, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.8638468, 52.0357215 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8779195166, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.863685, 52.0357318 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8779195167, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.8635524, 52.0357516 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8779195168, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.8634307, 52.0357681 ] } }
+]
+}

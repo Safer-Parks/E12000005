@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TELWR_57",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11538137025, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.4447103, 52.7018896 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11538137026, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.4454511, 52.7020023 ] } },
+{ "type": "Feature", "properties": { "osm_id": 838114743, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.4456403, 52.7021319 ] } },
+{ "type": "Feature", "properties": { "osm_id": 838114454, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.444976, 52.7022347 ] } }
+]
+}

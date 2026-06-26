@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WOLVE_78",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11552466320, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1325644, 52.5949227 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11552478325, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1324429, 52.5949277 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11547523016, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.130367, 52.595076 ] } }
+]
+}

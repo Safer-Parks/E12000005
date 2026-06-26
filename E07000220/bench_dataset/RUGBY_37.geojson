@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_37",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6323173674, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.254921, 52.3869544 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6323173672, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2547719, 52.3870865 ] } }
+]
+}

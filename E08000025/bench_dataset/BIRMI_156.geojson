@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_156",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12542839468, "name": "Story Telling Bench", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9465474, 52.4412412 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8644213871, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9483299, 52.4414299 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8644226264, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9489134, 52.4419354 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8644211715, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.949, 52.4429952 ] } }
+]
+}

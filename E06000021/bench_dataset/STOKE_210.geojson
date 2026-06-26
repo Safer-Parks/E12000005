@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STOKE_210",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11653460222, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1679919, 52.9573444 ] } }
+]
+}

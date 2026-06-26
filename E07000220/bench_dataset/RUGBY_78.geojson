@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_78",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3794948935, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2916519, 52.3537264 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3794948936, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2918044, 52.3537862 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3794948937, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.291969, 52.3538545 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3794948934, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2914979, 52.3536621 ] } }
+]
+}

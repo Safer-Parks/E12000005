@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_244",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12230518081, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9302637, 52.5302167 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12230518082, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9302832, 52.5303246 ] } }
+]
+}

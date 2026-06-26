@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WALSA_3592",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5528938907, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9238823, 52.5967922 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_137",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6765096167, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2285228, 52.2714093 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6765096166, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2285603, 52.2714257 ] } }
+]
+}

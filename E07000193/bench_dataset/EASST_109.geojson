@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASST_109",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9792354989, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.880517, 52.8986 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9845161268, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.8812197, 52.8997983 ] } }
+]
+}

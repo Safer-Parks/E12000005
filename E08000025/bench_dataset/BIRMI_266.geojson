@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_266",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 309188142, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9804352, 52.4103424 ] } }
+]
+}

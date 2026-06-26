@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MALHI_33",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11064002708, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3131461, 52.1264852 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11063994168, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3131691, 52.1265682 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11064003962, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3128616, 52.126598 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11063965404, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.313249, 52.1268449 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11063993440, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3130762, 52.1268996 ] } }
+]
+}

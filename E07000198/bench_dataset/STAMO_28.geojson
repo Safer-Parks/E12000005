@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "STAMO_28",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3163034015, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0439272, 53.0924367 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8781390654, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0479085, 53.0927045 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3163051774, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.048044, 53.0927829 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3138125121, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.036057, 53.093644 ] } }
+]
+}

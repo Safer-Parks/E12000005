@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_84",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3812447112, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.8081428, 52.439259 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3812447116, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.8081113, 52.4393166 ] } }
+]
+}

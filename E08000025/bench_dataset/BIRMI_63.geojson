@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BIRMI_63",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6110872083, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9714389, 52.3948982 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6110872080, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9712087, 52.3956852 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6110872081, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9699982, 52.395762 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6110872082, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.969885, 52.3958832 ] } }
+]
+}
