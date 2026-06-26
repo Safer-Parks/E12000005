@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5315464830, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.144989, 52.7964223 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5315464831, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1450452, 52.7964651 ] } }
+]
+}

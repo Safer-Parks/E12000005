@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COVEN_19",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12768638424, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4904158, 52.4118478 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12768638423, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4904256, 52.4120554 ] } }
+]
+}

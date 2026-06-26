@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_86",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12616470704, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2958159, 52.3652211 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12616470703, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2958638, 52.3652361 ] } }
+]
+}

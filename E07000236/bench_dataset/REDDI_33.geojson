@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "REDDI_33",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1616183770, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9405722, 52.3073054 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12138219379, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9408196, 52.307361 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1616183787, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9406193, 52.3078131 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1616183780, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9407195, 52.3079086 ] } }
+]
+}

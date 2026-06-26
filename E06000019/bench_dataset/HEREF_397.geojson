@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_397",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3965050762, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3397509, 52.0902944 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3964859896, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3393754, 52.091008 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13720820490, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.339365, 52.0910562 ] } }
+]
+}

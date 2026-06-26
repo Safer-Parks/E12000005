@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STRAT_203",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12688115338, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3949821, 52.2869186 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12688115336, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3950115, 52.2869343 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12688115337, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3950438, 52.2869463 ] } }
+]
+}

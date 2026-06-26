@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WARWI_179",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8996679539, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.6003015, 52.288963 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8996679535, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.6006029, 52.289739 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3611521855, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5995647, 52.2897882 ] } }
+]
+}

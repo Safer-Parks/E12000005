@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WYRFO_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4833625682, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2794821, 52.3363062 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4833625684, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2794405, 52.3367807 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4833625683, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.279816, 52.3369331 ] } }
+]
+}

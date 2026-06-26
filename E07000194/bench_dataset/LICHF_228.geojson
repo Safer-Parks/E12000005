@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_228",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10982514688, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7292833, 52.6935948 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10982514691, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7295894, 52.693669 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10982514669, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7293492, 52.6936883 ] } }
+]
+}
