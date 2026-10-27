@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tamworth_street_lights_200m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2770" } },
+"features": [
+{ "type": "Feature", "properties": { "source_file": "Warwickshire.csv", "sheet": "", "source_row": 7375, "local_authority": "Warwickshire County Council", "orig_x": 424061.17, "orig_y": 300010.15, "orig_crs": "EPSG:27700", "OGL_text": "© Warwickshire County Council, licensed under the Open Government Licence", "index_right": 28, "Park Name": "Kettle Brook Local Nature Reserve", "Type (OS)": null, "Type (OSM)": "park", "flag": "OSM", "country": "England", "Total Area (m²)": 266166.66785034991, "region_id": "E12000005", "authority_id": "E07000199", "auth_name_e": "Tamworth", "park_offical_id": "TAMWO_35", "old_park_id": "TAMWO_9b363b726846", "new_park_id": "02d70df516c2" }, "geometry": { "type": "Point", "coordinates": [ 8580552.424931704998016, 6956250.230186632834375 ] } }
+]
+}
