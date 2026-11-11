@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUST_71_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 130437535, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1983202, 52.6308562 ], [ -2.1984139, 52.6308655 ], [ -2.1992322, 52.6308586 ] ] } }
+]
+}

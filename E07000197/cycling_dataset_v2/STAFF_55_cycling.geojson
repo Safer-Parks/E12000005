@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_55_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1368379152, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0525616, 52.8208098 ], [ -2.0519469, 52.8220135 ], [ -2.0527498, 52.823084 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 459893183, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0527498, 52.823084 ], [ -2.0539317, 52.8246684 ], [ -2.0547533, 52.825701 ], [ -2.0550723, 52.8258937 ], [ -2.0582759, 52.8273351 ], [ -2.058399, 52.8274378 ] ] } }
+]
+}

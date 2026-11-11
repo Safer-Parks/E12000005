@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WALSA_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 311618490, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9243807, 52.5986844 ], [ -1.9247811, 52.598284 ], [ -1.9243207, 52.5981149 ], [ -1.9243054, 52.5981092 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 14473185, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9237959, 52.6084477 ], [ -1.924239, 52.6084719 ] ] } }
+]
+}

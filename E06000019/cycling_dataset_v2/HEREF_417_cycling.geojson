@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_417_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 35448722, "highway": "bridleway", "name": "Holywell Gutter Lane", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6763447, 52.0528299 ], [ -2.6763071, 52.0526494 ], [ -2.6762877, 52.0524348 ], [ -2.6762445, 52.0522779 ], [ -2.6760614, 52.0518711 ], [ -2.6759294, 52.0515459 ], [ -2.6759049, 52.0514832 ], [ -2.675774, 52.0510908 ], [ -2.6755976, 52.0507901 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 35448723, "highway": "bridleway", "name": "Holywell Gutter Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6814135, 52.0558725 ], [ -2.6813052, 52.0558369 ], [ -2.6812127, 52.0558246 ], [ -2.681113, 52.0558309 ], [ -2.6810193, 52.0558201 ], [ -2.6809445, 52.0557834 ], [ -2.6807851, 52.0556525 ], [ -2.6806201, 52.0555224 ], [ -2.680301, 52.0552803 ], [ -2.6802289, 52.0552375 ], [ -2.6800985, 52.0551602 ], [ -2.6798616, 52.0550169 ], [ -2.6791683, 52.0546459 ], [ -2.6789438, 52.0545258 ], [ -2.6779274, 52.0539963 ], [ -2.6778448, 52.0539523 ], [ -2.6775743, 52.053747 ], [ -2.6774106, 52.0534824 ], [ -2.6773917, 52.053349 ], [ -2.6773435, 52.0532228 ], [ -2.6773693, 52.0530179 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 5008922, "highway": "residential", "name": "Mount Crescent", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6921832, 52.0588579 ], [ -2.6921399, 52.0589815 ], [ -2.6919783, 52.059448 ], [ -2.6919965, 52.0596667 ] ] } }
+]
+}

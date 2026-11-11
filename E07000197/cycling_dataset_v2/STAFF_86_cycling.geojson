@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STAFF_86_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 459882242, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0122428, 52.8297346 ], [ -2.0116151, 52.8298825 ], [ -2.0111959, 52.8300314 ], [ -2.0104088, 52.8303271 ], [ -2.0103993, 52.8303718 ], [ -2.0103239, 52.8304112 ], [ -2.0102476, 52.830444 ], [ -2.0101698, 52.8304302 ], [ -2.0101035, 52.8304359 ], [ -2.0096559, 52.8305929 ], [ -2.0093372, 52.8306915 ], [ -2.00892, 52.8307992 ], [ -2.0084231, 52.8308977 ], [ -2.0081959, 52.83095 ] ] } }
+]
+}

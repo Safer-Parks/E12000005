@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BROMS_9_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1352894873, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8846473, 52.3887131 ], [ -1.8849291, 52.3887731 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 289533978, "highway": "footway", "name": "Simms Lane", "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "tarmac" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8835838, 52.3849907 ], [ -1.8831494, 52.3848753 ], [ -1.8831025, 52.3848629 ], [ -1.8826446, 52.3847635 ], [ -1.882284, 52.3847209 ], [ -1.8818829, 52.3847461 ] ] } }
+]
+}

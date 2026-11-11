@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STAMO_56_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 114324460, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.982583, 52.9584459 ], [ -1.9829753, 52.9585942 ], [ -1.9830362, 52.9586084 ] ] } }
+]
+}

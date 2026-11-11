@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_16_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 839759107, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8611428, 52.3790317 ], [ -1.8611595, 52.3790738 ], [ -1.8612684, 52.3793485 ], [ -1.8613682, 52.3795177 ], [ -1.861394, 52.3796011 ], [ -1.8613682, 52.379671 ], [ -1.861298, 52.3797116 ], [ -1.8611871, 52.3797455 ], [ -1.8610578, 52.3797725 ], [ -1.8609432, 52.3798086 ], [ -1.8607991, 52.3798831 ], [ -1.8607178, 52.3799417 ], [ -1.8606594, 52.3799995 ], [ -1.8605697, 52.3800541 ], [ -1.8604903, 52.3800847 ] ] } }
+]
+}

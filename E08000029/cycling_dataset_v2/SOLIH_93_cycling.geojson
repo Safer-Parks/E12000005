@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_93_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 198779681, "highway": "service", "name": "Fernhill Court", "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6604413, 52.385987 ], [ -1.6603272, 52.3860375 ], [ -1.6602886, 52.3860649 ], [ -1.6602723, 52.3861248 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 198779680, "highway": "service", "name": "Fernhill Court", "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6602723, 52.3861248 ], [ -1.6600327, 52.3861829 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 182783774, "highway": "service", "name": "Fernhill Court", "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6602916, 52.3862768 ], [ -1.6602723, 52.3861248 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 160279348, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.66476, 52.3905546 ], [ -1.6648751, 52.3905876 ], [ -1.6651044, 52.3906607 ], [ -1.6654722, 52.3907332 ], [ -1.6659593, 52.390716 ], [ -1.6663622, 52.3906938 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 69049490, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6506475, 52.3923068 ], [ -1.650111, 52.3924324 ], [ -1.6500217, 52.3923404 ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_49_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1248316043, "highway": "cycleway", "name": "Vicarage Road", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1123996, 52.4574082 ], [ -2.1123497, 52.4574206 ], [ -2.112291, 52.4574352 ], [ -2.112319, 52.4574861 ], [ -2.1122958, 52.4575197 ], [ -2.1122655, 52.457561 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 70038812, "highway": "cycleway", "name": "Vicarage Road", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1122655, 52.457561 ], [ -2.1122597, 52.4575684 ], [ -2.1121739, 52.4575817 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 150360012, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.13028, 52.4438161 ], [ -2.1303325, 52.4436731 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 150360008, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.130602, 52.4440265 ], [ -2.13028, 52.4438161 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 515644094, "highway": "residential", "name": "Chapel Street", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1156887, 52.4558227 ], [ -2.1152206, 52.4560095 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_690_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 228670464, "highway": "unclassified", "name": "Sheriffhales Drive", "category": "Traffic-free road", "bicycle": "permissive", "access": "private", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3667848, 52.7220684 ], [ -2.366257, 52.721665 ], [ -2.3633789, 52.7194881 ], [ -2.3625391, 52.7188468 ], [ -2.361802, 52.717548 ], [ -2.3615823, 52.7166494 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 876135076, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3870656, 52.7328911 ], [ -2.3877649, 52.7335745 ], [ -2.3877729, 52.7337718 ], [ -2.3875717, 52.734003 ], [ -2.3875046, 52.7341506 ], [ -2.3877781, 52.7344686 ], [ -2.38821, 52.7348304 ], [ -2.3886948, 52.7354753 ], [ -2.3887822, 52.7356581 ], [ -2.3884404, 52.7358169 ], [ -2.3879, 52.7361538 ], [ -2.3868192, 52.7366735 ], [ -2.386088, 52.7369477 ], [ -2.385492, 52.737044 ], [ -2.3856192, 52.7372509 ], [ -2.3857702, 52.7374578 ], [ -2.3857066, 52.7377465 ], [ -2.3855208, 52.7382769 ] ] } }
+]
+}

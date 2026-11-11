@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_208_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 869756565, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9782883, 52.3304735 ], [ -2.9782205, 52.3304008 ], [ -2.9782098, 52.3303135 ], [ -2.9794195, 52.3286797 ], [ -2.9800243, 52.3279232 ] ] } }
+]
+}

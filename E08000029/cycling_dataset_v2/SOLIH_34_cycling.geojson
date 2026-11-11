@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_34_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4698819, "highway": "residential", "name": "Melford Hall Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7981011, 52.4284164 ], [ -1.7978265, 52.4284429 ], [ -1.7973794, 52.4284622 ], [ -1.7969499, 52.428481 ], [ -1.7968248, 52.428482 ], [ -1.7966847, 52.4284705 ], [ -1.7954014, 52.428081 ] ] } }
+]
+}

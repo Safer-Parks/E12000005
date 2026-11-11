@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STAMO_9_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 854319405, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9907955, 52.9857718 ], [ -1.990639, 52.9857942 ], [ -1.9901268, 52.9859539 ], [ -1.9899804, 52.9859916 ], [ -1.9896263, 52.9860901 ], [ -1.9894992, 52.9861412 ], [ -1.9894739, 52.9861877 ] ] } }
+]
+}

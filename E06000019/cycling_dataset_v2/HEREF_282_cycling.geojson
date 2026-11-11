@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_282_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1150414258, "highway": "track", "name": null, "category": "Track", "bicycle": "permissive", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4810225, 52.1909414 ], [ -2.4809285, 52.1909832 ], [ -2.4808185, 52.1910078 ], [ -2.4805154, 52.190998 ], [ -2.4802418, 52.1910046 ], [ -2.4800219, 52.191021 ], [ -2.4798824, 52.1910407 ], [ -2.4797054, 52.1910802 ], [ -2.4795525, 52.1911312 ], [ -2.4794023, 52.1911739 ], [ -2.4792414, 52.1912084 ], [ -2.4791073, 52.1912331 ], [ -2.4789839, 52.1912693 ], [ -2.4788927, 52.1913104 ], [ -2.4788391, 52.1913482 ] ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TAMWO_6_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 75734733, "highway": "track", "name": "Moor Lane (Track)", "category": "Track", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6789026, 52.6367943 ], [ -1.6787074, 52.6373185 ], [ -1.678679, 52.6373889 ], [ -1.6785978, 52.6375838 ], [ -1.6785102, 52.6376563 ], [ -1.6783076, 52.6379883 ], [ -1.6782243, 52.6380644 ], [ -1.6773313, 52.6388803 ], [ -1.6767304, 52.6392839 ], [ -1.6767274, 52.6392864 ], [ -1.676507, 52.6394679 ], [ -1.675837, 52.6398694 ], [ -1.6749688, 52.6407079 ], [ -1.6731041, 52.6415886 ], [ -1.6714306, 52.6418892 ], [ -1.6710645, 52.6419583 ], [ -1.6707039, 52.6420535 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 112381812, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6944802, 52.6437052 ], [ -1.6946062, 52.643677 ], [ -1.6946706, 52.6436737 ], [ -1.6947461, 52.6436885 ], [ -1.6948383, 52.6436876 ], [ -1.6949147, 52.6436526 ], [ -1.6950093, 52.6436088 ], [ -1.6951327, 52.6435642 ], [ -1.6953557, 52.6435612 ], [ -1.6955423, 52.6435362 ], [ -1.6957982, 52.6434765 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 419336865, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": "permissive", "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.688087, 52.6488017 ], [ -1.6882842, 52.6486977 ], [ -1.6885399, 52.648571 ], [ -1.688731, 52.6484577 ], [ -1.6889227, 52.6483532 ] ] } }
+]
+}

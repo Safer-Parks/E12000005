@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "REDDI_45_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 36937864, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9530944, 52.2552992 ], [ -1.9522808, 52.2552779 ], [ -1.952091, 52.2551336 ], [ -1.9498439, 52.2552703 ], [ -1.9490771, 52.2554525 ], [ -1.9482496, 52.255498 ], [ -1.9478625, 52.2556726 ], [ -1.946997, 52.2557258 ], [ -1.9459989, 52.2557534 ], [ -1.9449359, 52.2557827 ], [ -1.9446037, 52.2557732 ], [ -1.9439869, 52.2558586 ], [ -1.9438871, 52.2558933 ], [ -1.9438447, 52.255986 ] ] } }
+]
+}

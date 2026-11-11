@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MALHI_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 151089780, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": "yes", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3296893, 52.1277939 ], [ -2.3296862, 52.1274966 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1017184463, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3334092, 52.1303108 ], [ -2.3334738, 52.1302829 ], [ -2.3333753, 52.1301917 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 154374469, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": "yes", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3301585, 52.1327859 ], [ -2.3299807, 52.1325704 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 147697499, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3305557, 52.1332635 ], [ -2.3305315, 52.1331821 ], [ -2.3305266, 52.1331673 ], [ -2.3304324, 52.1328855 ], [ -2.3302819, 52.1328956 ], [ -2.3301709, 52.1329027 ], [ -2.3301585, 52.1327859 ] ] } }
+]
+}

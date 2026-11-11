@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CANCH_6_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 817580643, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9763593, 52.7076316 ], [ -1.9751709, 52.7080004 ], [ -1.9743692, 52.7082405 ], [ -1.9737704, 52.7084506 ], [ -1.9736847, 52.7084807 ], [ -1.9732073, 52.7084916 ], [ -1.972829, 52.708306 ], [ -1.972492, 52.7080077 ], [ -1.9722609, 52.7078582 ], [ -1.9721853, 52.7078486 ], [ -1.972076, 52.7078576 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 817584106, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9737704, 52.7084506 ], [ -1.9734387, 52.7086664 ], [ -1.973152, 52.708869 ], [ -1.9728448, 52.7091709 ], [ -1.9724352, 52.7093901 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 817578697, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": "destination", "foot": "yes", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9761348, 52.7094768 ], [ -1.9755729, 52.7095068 ], [ -1.9753371, 52.70979 ], [ -1.9750362, 52.7100092 ], [ -1.9747049, 52.7101952 ], [ -1.974459, 52.7103245 ], [ -1.9739092, 52.710636 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 166157426, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9820424, 52.7070541 ], [ -1.9818124, 52.7071229 ], [ -1.9815653, 52.7072387 ], [ -1.9812248, 52.7074293 ], [ -1.980863, 52.7076681 ], [ -1.9805499, 52.7079137 ] ] } }
+]
+}

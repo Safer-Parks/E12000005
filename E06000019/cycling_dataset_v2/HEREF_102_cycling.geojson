@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_102_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1092348910, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7996332, 52.0342735 ], [ -2.799679, 52.0342971 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 696628993, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7995884, 52.0342038 ], [ -2.7996332, 52.0342735 ], [ -2.7987946, 52.0344144 ], [ -2.7979924, 52.0345419 ], [ -2.7978798, 52.0345947 ], [ -2.7977993, 52.0346112 ], [ -2.7976652, 52.034598 ], [ -2.7970796, 52.0346959 ] ] } }
+]
+}

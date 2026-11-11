@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STOKE_28_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 183950312, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0987319, 52.986165 ], [ -2.0979335, 52.9864449 ], [ -2.0978745, 52.9865371 ], [ -2.0975759, 52.988098 ], [ -2.0976789, 52.9882898 ], [ -2.0976145, 52.9883524 ], [ -2.0976676, 52.9884338 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 183950310, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.11025, 52.9896445 ], [ -2.1105164, 52.9896909 ], [ -2.1105244, 52.9897038 ], [ -2.110419, 52.9898808 ], [ -2.110366, 52.9899877 ], [ -2.110163, 52.9903976 ], [ -2.1100713, 52.9904423 ], [ -2.1099854, 52.9904842 ], [ -2.1099102, 52.9906201 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 696328324, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0955955, 52.9955585 ], [ -2.0954529, 52.9955247 ], [ -2.0952463, 52.9954972 ], [ -2.0951096, 52.9954682 ], [ -2.0949969, 52.9954149 ], [ -2.0948977, 52.9953842 ], [ -2.0947943, 52.9953661 ] ] } }
+]
+}

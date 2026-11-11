@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_428_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 301095411, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5899594, 51.8734409 ], [ -2.5894357, 51.8735775 ], [ -2.5887156, 51.8735472 ], [ -2.5884243, 51.8736141 ], [ -2.5879739, 51.8737006 ], [ -2.5877808, 51.8737383 ], [ -2.5874802, 51.87375 ], [ -2.5871537, 51.8738024 ], [ -2.587028, 51.8738432 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 783435021, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5848015, 51.8784599 ], [ -2.5850859, 51.8785457 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 700295480, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5858166, 51.8766827 ], [ -2.5857487, 51.8766789 ], [ -2.5856841, 51.8766987 ], [ -2.5854443, 51.8768433 ], [ -2.5851901, 51.8769744 ], [ -2.5850387, 51.8770324 ], [ -2.5848178, 51.8770966 ], [ -2.5845026, 51.8771461 ], [ -2.5840314, 51.8771635 ], [ -2.5835885, 51.8771333 ], [ -2.5834949, 51.8771375 ], [ -2.5829474, 51.8772827 ], [ -2.5824442, 51.8770717 ], [ -2.5822517, 51.8770406 ], [ -2.5818529, 51.8770269 ], [ -2.5814575, 51.877081 ], [ -2.5811406, 51.877094 ], [ -2.581042, 51.8770655 ], [ -2.5808938, 51.8769662 ], [ -2.5807073, 51.8768027 ], [ -2.5806405, 51.8766852 ] ] } }
+]
+}

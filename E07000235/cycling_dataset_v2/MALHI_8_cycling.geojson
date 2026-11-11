@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MALHI_8_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1423686105, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3206379, 52.1524506 ], [ -2.3218408, 52.1528126 ], [ -2.3219383, 52.1528288 ], [ -2.322025, 52.1528329 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 99847747, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3213559, 52.1641302 ], [ -2.3219549, 52.1626471 ], [ -2.3216871, 52.161721 ], [ -2.3225487, 52.1609631 ], [ -2.3228504, 52.1607495 ], [ -2.3237068, 52.1600312 ], [ -2.3256316, 52.1587593 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BROMS_66_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 140581379, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9337592, 52.3443133 ], [ -1.9336047, 52.3443394 ], [ -1.9326176, 52.3443591 ], [ -1.9298089, 52.3444022 ] ] } }
+]
+}

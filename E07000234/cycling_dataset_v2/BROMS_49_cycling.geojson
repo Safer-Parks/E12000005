@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BROMS_49_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 26558053, "highway": "bridleway", "name": "The Stocken", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9902778, 52.3768913 ], [ -1.9902433, 52.3767731 ], [ -1.9895537, 52.3753193 ], [ -1.9891072, 52.3741917 ], [ -1.9890819, 52.3741279 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 654612191, "highway": "bridleway", "name": "The Stocken", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9917661, 52.3785118 ], [ -1.9912388, 52.3780629 ], [ -1.9911747, 52.3779892 ], [ -1.9911325, 52.3779358 ], [ -1.9907843, 52.3774948 ], [ -1.9904661, 52.3771594 ], [ -1.9902778, 52.3768913 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1164882528, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9856043, 52.3786054 ], [ -1.9853255, 52.3781502 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 26558052, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9919121, 52.3786339 ], [ -1.9917661, 52.3785118 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 26550204, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9934456, 52.3798669 ], [ -1.9932259, 52.3796944 ], [ -1.9929526, 52.3794842 ], [ -1.9928397, 52.3793924 ], [ -1.9927981, 52.3793382 ], [ -1.9919121, 52.3786339 ] ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BROMS_65_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 25955029, "highway": "tertiary", "name": "Birmingham Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9415611, 52.3149668 ], [ -1.94149, 52.3147641 ], [ -1.9410207, 52.3137139 ], [ -1.9409956, 52.3136556 ], [ -1.9405295, 52.3125745 ], [ -1.9404922, 52.312488 ], [ -1.9404263, 52.3123352 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 23701735, "highway": "residential", "name": "Birmingham Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9423678, 52.3167313 ], [ -1.9418975, 52.3156951 ], [ -1.9416686, 52.3151907 ], [ -1.9416499, 52.3151513 ], [ -1.9416306, 52.3151115 ], [ -1.9416155, 52.31508 ], [ -1.9415611, 52.3149668 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 224537179, "highway": "unclassified", "name": "Bordesley Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9424976, 52.3177163 ], [ -1.942076, 52.3175114 ], [ -1.9419784, 52.3174568 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1344875591, "highway": "service", "name": null, "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9424976, 52.3177163 ], [ -1.9425639, 52.3178072 ], [ -1.9425595, 52.3178914 ], [ -1.9425208, 52.3179394 ], [ -1.942204, 52.3181438 ], [ -1.942038, 52.3182509 ], [ -1.9417673, 52.3184058 ], [ -1.941603, 52.3184018 ] ] } }
+]
+}

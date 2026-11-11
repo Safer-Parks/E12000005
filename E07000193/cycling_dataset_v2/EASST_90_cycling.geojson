@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASST_90_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 219119477, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8696192, 52.9817397 ], [ -1.869324, 52.9818716 ], [ -1.8685113, 52.9819859 ], [ -1.8679775, 52.9820569 ], [ -1.8673097, 52.9821328 ], [ -1.8667733, 52.982165 ], [ -1.8663629, 52.9821404 ], [ -1.865952, 52.9820896 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 107217157, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8662381, 52.9820011 ], [ -1.8660879, 52.9820334 ], [ -1.865952, 52.9820896 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1278630978, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.865952, 52.9820896 ], [ -1.8658336, 52.9820893 ], [ -1.8655909, 52.9820409 ] ] } }
+]
+}

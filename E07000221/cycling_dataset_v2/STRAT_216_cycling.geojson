@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STRAT_216_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 155898417, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6116232, 52.1340002 ], [ -1.6117206, 52.1338741 ], [ -1.6119231, 52.1336839 ], [ -1.6121132, 52.1335204 ], [ -1.6123546, 52.1333047 ], [ -1.6126312, 52.1330295 ], [ -1.6127596, 52.1328906 ], [ -1.6129356, 52.1327142 ], [ -1.613295, 52.1324121 ], [ -1.6140255, 52.1317093 ] ] } }
+]
+}

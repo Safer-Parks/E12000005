@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_56_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 127981712, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": null, "designatn": null, "segregatd": "yes", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7230225, 52.1508547 ], [ -2.7232459, 52.1508042 ], [ -2.7237363, 52.1506152 ], [ -2.7244163, 52.150423 ], [ -2.7251804, 52.1501781 ], [ -2.7251883, 52.1501572 ], [ -2.7252529, 52.1499849 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 66399331, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7147885, 52.1633165 ], [ -2.7160197, 52.1631716 ], [ -2.7168954, 52.1630345 ], [ -2.7173742, 52.1628163 ], [ -2.7177429, 52.1626067 ], [ -2.7180474, 52.1623671 ], [ -2.7186227, 52.1619552 ], [ -2.7192759, 52.1617567 ], [ -2.7199947, 52.1613848 ], [ -2.7210301, 52.1608451 ], [ -2.7215409, 52.1605533 ], [ -2.7221727, 52.1604749 ], [ -2.7223749, 52.1603052 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 411079610, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7147885, 52.1633165 ], [ -2.7138954, 52.1630647 ], [ -2.7128493, 52.1627719 ], [ -2.7106553, 52.1623605 ], [ -2.709331, 52.1623357 ], [ -2.7080589, 52.1622816 ], [ -2.7069431, 52.1621565 ], [ -2.703762, 52.1617616 ], [ -2.7029305, 52.1616102 ], [ -2.7026313, 52.1615076 ] ] } }
+]
+}

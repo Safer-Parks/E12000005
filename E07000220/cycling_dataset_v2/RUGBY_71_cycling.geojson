@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_71_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 47030946, "highway": "bridleway", "name": "Tutbury Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.369366, 52.4053957 ], [ -1.3694221, 52.4041171 ], [ -1.3695961, 52.40156 ], [ -1.3694736, 52.4006609 ], [ -1.3707412, 52.3962249 ], [ -1.3707071, 52.3958715 ], [ -1.3704618, 52.3955899 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 230711499, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3571166, 52.41272 ], [ -1.3572329, 52.4125485 ], [ -1.357232, 52.4124235 ], [ -1.3571742, 52.4122818 ], [ -1.3570712, 52.4121569 ], [ -1.3569042, 52.4120961 ], [ -1.3567447, 52.4120839 ], [ -1.3563707, 52.4120977 ], [ -1.355986, 52.4121399 ], [ -1.3557372, 52.4122635 ], [ -1.3555628, 52.41242 ], [ -1.3555448, 52.4125874 ], [ -1.3555739, 52.4126851 ], [ -1.3556602, 52.4127657 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 49938846, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3563206, 52.4125606 ], [ -1.3564114, 52.412543 ], [ -1.3565922, 52.4125926 ], [ -1.3567556, 52.4126629 ], [ -1.3568817, 52.4127586 ] ] } }
+]
+}

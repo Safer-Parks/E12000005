@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 132669522, "highway": "tertiary", "name": "Newport Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2901085, 52.6449588 ], [ -2.2902146, 52.6451126 ], [ -2.2902582, 52.6451924 ], [ -2.290273, 52.6452432 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 868861436, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2902813, 52.6453183 ], [ -2.2901463, 52.6452841 ], [ -2.2901499, 52.6451899 ], [ -2.29009, 52.6451746 ], [ -2.2900446, 52.6451567 ], [ -2.2900656, 52.6450483 ], [ -2.2900598, 52.6449669 ], [ -2.2900974, 52.6449385 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1000838792, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.290273, 52.6452432 ], [ -2.2903505, 52.6453341 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1000838793, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2903505, 52.6453341 ], [ -2.2902813, 52.6453183 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 182055070, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2903505, 52.6453341 ], [ -2.2908667, 52.6459685 ], [ -2.2914028, 52.6464595 ], [ -2.292098, 52.6471158 ], [ -2.2930046, 52.6480206 ], [ -2.293262, 52.6483135 ], [ -2.2933612, 52.64839 ], [ -2.2934747, 52.6484217 ], [ -2.2935893, 52.6483875 ], [ -2.2937506, 52.6483409 ], [ -2.2940164, 52.6482254 ] ] } }
+]
+}

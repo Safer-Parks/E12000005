@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STRAT_80_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 98513358, "highway": "tertiary", "name": "Stratford Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8673473, 52.2130096 ], [ -1.8671962, 52.2129847 ], [ -1.8669169, 52.2129401 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 239897137, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8597031, 52.2207465 ], [ -1.8597618, 52.2208414 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 110435517, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8478963, 52.2207909 ], [ -1.8478755, 52.2207127 ], [ -1.847845, 52.2205976 ], [ -1.8473933, 52.2197136 ], [ -1.8470004, 52.2190365 ], [ -1.8467416, 52.2185148 ], [ -1.84669, 52.2184107 ] ] } }
+]
+}

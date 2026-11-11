@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASST_109_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 779654601, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8711439, 52.8944886 ], [ -1.87142, 52.8943567 ], [ -1.8715945, 52.8942425 ], [ -1.8719674, 52.89405 ], [ -1.8723217, 52.893906 ], [ -1.8723978, 52.8938323 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 418998864, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8714241, 52.8937485 ], [ -1.871282, 52.8937475 ], [ -1.8712136, 52.8938009 ], [ -1.871109, 52.893847 ], [ -1.8709695, 52.8938713 ], [ -1.8709086, 52.8938815 ], [ -1.8704478, 52.8938874 ], [ -1.8701715, 52.8939182 ], [ -1.869792, 52.8940015 ], [ -1.8690101, 52.8941973 ], [ -1.868467, 52.8943316 ], [ -1.868125, 52.8944133 ], [ -1.8677495, 52.8944813 ], [ -1.8670991, 52.8945768 ], [ -1.8666089, 52.8946365 ], [ -1.8659229, 52.8947208 ], [ -1.8655139, 52.8947839 ], [ -1.8647548, 52.8949643 ], [ -1.8643434, 52.8950642 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 114110578, "highway": "footway", "name": "Heathlands Drive", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8724444, 52.904205 ], [ -1.8724501, 52.9043047 ] ] } }
+]
+}

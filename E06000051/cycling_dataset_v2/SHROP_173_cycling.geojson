@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SHROP_173_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 699843208, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5971482, 52.43154 ], [ -2.5988231, 52.432495 ], [ -2.6014689, 52.4336769 ], [ -2.6023375, 52.4340789 ], [ -2.6040119, 52.4348537 ], [ -2.6041138, 52.434946 ], [ -2.6041823, 52.4350809 ], [ -2.6042994, 52.4352302 ], [ -2.604523, 52.4353471 ], [ -2.6045869, 52.4354574 ], [ -2.6044303, 52.4360743 ], [ -2.6043633, 52.4369375 ], [ -2.6038841, 52.4376841 ], [ -2.6037094, 52.4382682 ] ] } }
+]
+}

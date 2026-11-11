@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DUDLE_85_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1353932921, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0973176, 52.5243724 ], [ -2.0972655, 52.5242387 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 332762591, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0966263, 52.5263847 ], [ -2.096703, 52.5262569 ], [ -2.0967467, 52.5261327 ], [ -2.0967565, 52.5260266 ], [ -2.0967583, 52.5260068 ], [ -2.0968895, 52.5258827 ], [ -2.0969886, 52.5255847 ], [ -2.0970185, 52.5255036 ], [ -2.0972539, 52.524902 ], [ -2.0973034, 52.5247849 ], [ -2.0973209, 52.5245668 ], [ -2.0973297, 52.5244036 ], [ -2.0973176, 52.5243724 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 152480312, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "yes", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1152978, 52.5189213 ], [ -2.1151914, 52.5190017 ], [ -2.1149849, 52.5191013 ] ] } }
+]
+}

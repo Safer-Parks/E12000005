@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RUGBY_25_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 46986142, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3901157, 52.3952929 ], [ -1.3891361, 52.3931284 ], [ -1.3883689, 52.3915648 ], [ -1.3884009, 52.3914734 ], [ -1.3885431, 52.3913569 ], [ -1.3887366, 52.3912629 ], [ -1.3890428, 52.3911904 ], [ -1.3896603, 52.391033 ], [ -1.3901952, 52.3908501 ], [ -1.3906148, 52.39069 ], [ -1.3909454, 52.3904358 ], [ -1.3911813, 52.3901873 ], [ -1.3914491, 52.3898688 ], [ -1.3917563, 52.3895507 ], [ -1.3920356, 52.3890988 ], [ -1.3921595, 52.3889444 ], [ -1.392656, 52.388418 ], [ -1.3929737, 52.3879892 ], [ -1.3934744, 52.3874448 ], [ -1.3936879, 52.3871282 ], [ -1.3939314, 52.3868539 ], [ -1.3948331, 52.3862575 ], [ -1.3951967, 52.3860173 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 125005197, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3951967, 52.3860173 ], [ -1.3951993, 52.3859059 ] ] } }
+]
+}

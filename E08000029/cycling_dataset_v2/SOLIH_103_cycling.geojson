@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOLIH_103_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 33414661, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7494651, 52.3629616 ], [ -1.7512319, 52.3610414 ], [ -1.7513476, 52.3609156 ] ] } }
+]
+}

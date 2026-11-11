@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LICHF_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 134079204, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9380911, 52.6866475 ], [ -1.9380943, 52.6866073 ], [ -1.9381051, 52.6865325 ], [ -1.9381052, 52.6864443 ], [ -1.9380702, 52.6863374 ], [ -1.9380918, 52.6862102 ], [ -1.9381104, 52.6861635 ], [ -1.9380836, 52.6860789 ], [ -1.9380836, 52.686048 ], [ -1.9381079, 52.6859728 ], [ -1.9381132, 52.6858818 ], [ -1.9380942, 52.6857604 ] ] } }
+]
+}

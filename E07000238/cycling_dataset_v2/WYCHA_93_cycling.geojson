@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WYCHA_93_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 615008492, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1484855, 52.174886 ], [ -2.1484789, 52.1749166 ], [ -2.1484367, 52.1751135 ], [ -2.1481872, 52.1756403 ], [ -2.1478526, 52.1760541 ], [ -2.1476457, 52.1764401 ], [ -2.1475329, 52.1767138 ], [ -2.1473602, 52.1769993 ], [ -2.1470965, 52.1776144 ], [ -2.1467711, 52.1787406 ], [ -2.1467587, 52.1788596 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 663038299, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1467587, 52.1788596 ], [ -2.1467526, 52.1789272 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 659428262, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1467526, 52.1789272 ], [ -2.1468133, 52.1792313 ], [ -2.1469581, 52.179649 ], [ -2.1472478, 52.1802247 ], [ -2.1473122, 52.1804286 ], [ -2.1472853, 52.1808266 ], [ -2.1473444, 52.1810865 ], [ -2.1477628, 52.1824285 ], [ -2.1477402, 52.1825989 ] ] } }
+]
+}

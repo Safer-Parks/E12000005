@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WARWI_57_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 40350606, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6312002, 52.3542823 ], [ -1.6321414, 52.3542444 ], [ -1.6324131, 52.3542674 ], [ -1.635172, 52.3537262 ], [ -1.6355153, 52.3537 ], [ -1.6366912, 52.3545388 ], [ -1.6374208, 52.3555243 ], [ -1.6372319, 52.356101 ] ] } }
+]
+}

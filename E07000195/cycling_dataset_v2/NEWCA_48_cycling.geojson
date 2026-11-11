@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWCA_48_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 48364682, "highway": "bridleway", "name": "Red Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.343033, 52.9945957 ], [ -2.3430405, 52.9945276 ], [ -2.343061, 52.9944697 ], [ -2.3433592, 52.9940344 ], [ -2.3436866, 52.9936422 ], [ -2.3439414, 52.9933072 ], [ -2.3442331, 52.9929723 ], [ -2.3455617, 52.9913519 ], [ -2.3457804, 52.9909869 ], [ -2.3460761, 52.9905311 ], [ -2.3463781, 52.9900405 ], [ -2.3467792, 52.9892442 ], [ -2.3468035, 52.9891545 ], [ -2.3469273, 52.9889755 ], [ -2.3471989, 52.9886948 ], [ -2.3473485, 52.9885148 ], [ -2.34795, 52.9881169 ], [ -2.3490213, 52.9869351 ], [ -2.3491873, 52.9868082 ], [ -2.3494077, 52.9867349 ], [ -2.3496625, 52.9867626 ], [ -2.3499186, 52.9867249 ], [ -2.3509847, 52.9865221 ], [ -2.3512717, 52.9864088 ], [ -2.3521358, 52.9857806 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 45781942, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3420993, 52.997474 ], [ -2.341846, 52.9976283 ], [ -2.3416344, 52.9977887 ], [ -2.3414929, 52.9979475 ], [ -2.341223, 52.9979951 ], [ -2.3411326, 52.9980209 ], [ -2.3408727, 52.9981695 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 47000005, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3394483, 52.9923929 ], [ -2.3396977, 52.9923047 ] ] } }
+]
+}
