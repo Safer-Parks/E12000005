@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HEREF_419_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 712340987, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7081383, 51.9663989 ], [ -2.7083368, 51.966346 ], [ -2.708385, 51.966308 ], [ -2.7087536, 51.9653557 ], [ -2.7096927, 51.9642042 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 712337352, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7146853, 51.9594967 ], [ -2.7154983, 51.9591435 ], [ -2.7161229, 51.9587727 ], [ -2.7182824, 51.9578278 ], [ -2.7185774, 51.9576625 ], [ -2.7197439, 51.956624 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 712340995, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7146853, 51.9594967 ], [ -2.7139673, 51.9598839 ], [ -2.7138171, 51.9602013 ], [ -2.7137763, 51.9607599 ], [ -2.7126583, 51.9620392 ], [ -2.7120353, 51.962513 ], [ -2.7110887, 51.9630242 ], [ -2.7107084, 51.9630409 ], [ -2.7104257, 51.9633713 ] ] } }
+]
+}
